@@ -113,6 +113,8 @@ img.emoji {
 <li id="menu-item-11" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11"><a href="https://myiszero.github.io/mywebsite/category/hacker">Hacker</a></li>
 <li id="menu-item-912" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-912"><a href="https://myiszero.github.io/mywebsite/category/gal">GAL</a></li>
 <li id="menu-item-919" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-919"><a href="https://myiszero.github.io/mywebsite/category/game">Game</a></li>
+<li id="menu-item-948" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-948"><a href="https://myiszero.github.io/mywebsite/category/linux">Linux</a></li>
+<li id="menu-item-951" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-951"><a href="https://myiszero.github.io/mywebsite/category/python">python</a></li>
 </ul></div>			</nav><!-- #access -->
 	</header><!-- #branding -->
 
@@ -132,7 +134,7 @@ img.emoji {
 					
 <article id="post-394" class="post-394 post type-post status-publish format-standard hentry category-article">
 	<header class="entry-header">
-		<h1 class="entry-title">[恢复] [高通] Galaxy S7 edge（hero2qltechn）的官方TWRP</h1>
+		<h1 class="entry-title"><a href="https://forum.xda-developers.com/t/recovery-qualcomm-official-twrp-for-the-galaxy-s7-edge-hero2qltechn.3458589/" target="_blank" rel="noopener">[恢复] [高通] Galaxy S7 edge（hero2qltechn）的官方TWRP</a></h1>
 
 				<div class="entry-meta">
 			<span class="sep">发表于</span><a href="https://myiszero.github.io/mywebsite/394.html" title="下午7:04" rel="bookmark"><time class="entry-date" datetime="2021-02-16T19:04:00+08:00">2021年2月16日</time></a><span class="by-author"><span class="sep">由</span><span class="author vcard"><a class="url fn n" href="https://myiszero.github.io/mywebsite/author/ohaig" title="查看所有由admin发布的文章" rel="author">admin</a></span></span>		</div>
@@ -140,103 +142,7 @@ img.emoji {
 			</header><!-- .entry-header -->
 
 	<div class="entry-content">
-		<p><span id="more-394"></span>Team Win Recovery项目3.0.2-0<b>这仅适用于中国SM-G9350高通型号！</b><b>不要在Exynos型号上闪烁！</b><b> 如果您有SM-G9300或SM-G9308，请</b><b>代替</b><b>这里</b><b>！</b></p>
-<p><b>警告＃1</b><b>：将自定义恢复内容刷新到设备上会使手机上的Knox保修位跳闸。</b><b>请与您的移动服务提供商联系，以查看他们是否仍将对诺克斯比特触发设备提供保修。</b><b>如果您了解这种风险，请继续。</b> 通常，您不必担心，因为很难用三星设备砌砖，并且应免除Knox触发的物理损坏保证。</p>
-<p><b>警告＃2</b><b>：Galaxy S7边缘股票启动映像具有dm-verity，如果您滑动以启用系统修改，这将阻止您启动！</b></p>
-<p><a class="link link--external" href="http://teamw.in/" target="_blank" rel="ugc nofollow noopener"><img class="bbImage " src="https://forum.xda-developers.com/proxy.php?image=https%3A%2F%2Ftwrp.me%2Fimages%2Fhome.png&amp;hash=9797d7c0d5f5e6fd2ca448299e7085c5" data-url="https://twrp.me/images/home.png"><img class="bbImage " src="https://forum.xda-developers.com/proxy.php?image=https%3A%2F%2Ftwrp.me%2Fimages%2Fbackupname.png&amp;hash=5c32f5b1eace0880e26cd6a4d1462778" data-url="https://twrp.me/images/backupname.png"></a></p>
-<p><b> </b></p>
-<p>&nbsp;</p>
-<p><b></b><br>
-<b>解决方案：请</b>遵循以下完整的生根步骤，以便进行系统修改而没有启动循环的风险！</p>
-<p><b>什么是TWRP？</b></p>
-<p>哦，拜托，你知道这是什么-不要试图欺骗我！<br>
-不过，如果您是认真的话&#8230;</p>
-<p>Team Win Recovery Project是针对Android设备的自定义恢复。<br>
-它使您可以备份和还原数据，将自定义ROM闪存到设备，修复损坏的文件系统以及为设备创建根目录。</p>
-<p><b>下载</b></p>
-<p>您可以在这里找到设备页面：<br>
-http://teamw.in/devices/samsunggalaxys7edgechina.html<br>
-那里有一个下载链接，以及有关如何刷新它的说明。</p>
-<p>我强烈建议尽可能使用Odin 3.12.3+进行闪烁。<br>
-您可以在以下位置找到包含Odin以及三星移动驱动程序的zip：<br>
-<b>https:</b><b>//build.nethunter.com/samsung-tools/获取根目录的完整步骤请</b></p>
-<p>按照以下说明进行操作，直到有人<b>陪同</b>并从他们那里录制视频（没有广告）：</p>
-<ol>
-<li data-xf-list-type="ol">在ROM中，转到“设置”-&gt;“关于设备”。在内部版本号上点击7次以启用开发人员选项。</li>
-<li data-xf-list-type="ol">现在转到设置-&gt;开发人员选项。（关于设备上方）<br>
-您需要<b>启用OEM解锁</b>，否则可能会遇到启动问题或以后无法刷新。</li>
-<li data-xf-list-type="ol">您现在需要解锁引导加载程序。为此，请从Galaxy Apps商店下载应用程序“<b>三星电子有限公司的CROM服务</b>”并运行它。<br>
-请按照CROM Service应用程序中的说明进行操作，以使您的设备在下载模式下接受自定义图像。</li>
-<li data-xf-list-type="ol">将<a class="link link--external" href="https://build.nethunter.com/samsung-tools/" target="_blank" rel="ugc nofollow noopener">Odin_3.12.3.zip解</a>压缩到您的计算机。</li>
-<li data-xf-list-type="ol">安装用于Odin的<a class="link link--external" href="http://developer.samsung.com/technical-doc/view.do?v=T000000117" target="_blank" rel="ugc nofollow noopener">Samsung手机驱动程序</a>以找到您的设备。</li>
-<li data-xf-list-type="ol">
-<a class="link link--external" href="http://teamw.in/devices/samsunggalaxys7edgechina.html" target="_blank" rel="ugc nofollow noopener">为hero2qltechn</a>下载<a class="link link--external" href="http://teamw.in/devices/samsunggalaxys7edgechina.html" target="_blank" rel="ugc nofollow noopener">TWRP</a>的.tar映像。</li>
-<li data-xf-list-type="ol">将设备重新启动到下载模式。为此，请从电源菜单中选择重新启动，并在设备重新启动时按住[降低音量] + [主页]按钮。<br>
-到达下载模式警告屏幕后，请按[提高音量]继续。</li>
-<li data-xf-list-type="ol">打开Odin并将该TWRP tar文件放置在[AP]插槽中，并<u>禁用“自动重启”</u>，然后按[开始]。</li>
-<li data-xf-list-type="ol">按住[降低音量] + [主页] + [电源]退出下载模式，并在屏幕空白时立即切换为[提高音量]。<br>
-如果看不到，那么请从步骤7重试TWRP引导启动。</li>
-<li data-xf-list-type="ol">此时，您将到达屏幕，询问您是否要允许系统修改。<br>
-<b>向右滑动，将触发dm-verity，如果不执行步骤10，将无法启动！</b><br>
-如果您要植根设备并执行其余步骤，则向右滑动并启用修改是安全的。</li>
-<li data-xf-list-type="ol">
-<b>如果您想扎根SuperSU，请执行以下操作：</b><br>
-下载<a class="link link--external" href="https://download.chainfire.eu/supersu" target="_blank" rel="ugc nofollow noopener">Chainfire</a>的最新<a class="link link--external" href="https://download.chainfire.eu/supersu" target="_blank" rel="ugc nofollow noopener">SuperSU</a>。<br>
-在不退出TWRP的情况下，通过MTP *将SuperSU zip传输到您的设备，然后使用TWRP中的[安装]将其刷新。<b>如果您希望扎根于别的东西，或者只想要可启动的系统，请执行以下操作：</b><br>
-下载最新的<a class="link link--external" href="https://build.nethunter.com/android-tools/no-verity-opt-encrypt/" target="_blank" rel="ugc nofollow noopener">no-verity-opt-encrypt</a> zip。<br>
-在不退出TWRP的情况下，通过MTP *将no-verity-opt-encrypt zip传输到您的设备，然后使用TWRP中的[Install]将其刷新。<br>
-它将允许您的系统在滑动以启用修改或在TWRP中使用备份/还原后启动。<br>
-它还应允许您使用[格式化数据]并防止加密，从而允许您使用TWRP中的数据分区和内部存储。</li>
-<li data-xf-list-type="ol">转到[重启]-&gt; [系统]。</li>
-<li data-xf-list-type="ol">等待2-5分钟，让设备完成设置。</li>
-</ol>
-<p>* MTP，称为媒体传输协议，是在引导至系统时将文件从PC传输到设备的相同方法。</p>
-<p><b>变化</b></p>
-<ul>
-<li data-xf-list-type="ul">
-<b>v3.0.2.0-twrp.me上的</b>正式发布</li>
-</ul>
-<p><b>特征</b></p>
-<ul>
-<li data-xf-list-type="ul">MTP支持</li>
-<li data-xf-list-type="ul">USB大容量存储支持</li>
-<li data-xf-list-type="ul">Micro SD卡和USB OTG存储支持</li>
-<li data-xf-list-type="ul">f2fs文件系统支持（读取，写入，格式化，备份和还原）</li>
-<li data-xf-list-type="ul">exFAT文件系统支持（读取，写入，格式化，备份和还原）</li>
-<li data-xf-list-type="ul">NTFS文件系统支持（读，写，格式化）</li>
-<li data-xf-list-type="ul">亚行根目录</li>
-<li data-xf-list-type="ul">完整的SELinux支持</li>
-<li data-xf-list-type="ul">内置android 6.0树</li>
-</ul>
-<p><b>已知的问题</b></p>
-<ul>
-<li data-xf-list-type="ul">
-<b></b>TWRP 3.0<b>尚不支持Samsung加密</b>（请参阅： https://gerrit.omnirom.org/#/c/17308/）</li>
-</ul>
-<p><b>联系与支持</b></p>
-<p>您可以在<a class="link link--external" href="https://webchat.freenode.net/?channels=twrp" target="_blank" rel="ugc nofollow noopener">chat.freenode.net的</a>IRC上的<a class="link link--external" href="https://webchat.freenode.net/?channels=twrp" target="_blank" rel="ugc nofollow noopener">#twrp上</a>找到我们。<br>
-您也可以在此主题中发帖，我将尝试回答您可能有的任何问题。</p>
-<p><b>源代码</b></p>
-<p>TWRP：https://github.com/omnirom/android_bootable_recovery（android-6.0）<br>
-设备树（美国）：https://github.com/jcadduono/android_device_samsung_hero2qlte（android-6.0）<br>
-设备树（中国）：https://github.com/TeamWin/android_device_samsung_hero2qltechn（android-6.0）<br>
-内核：https://github.com/jcadduono/android_kernel_samsung_msm8996（twrp-6.0）</p>
-<p><b>贡献</b></p>
-<p>TWRP的Gerrit：http://gerrit.omnirom.org/<br>
-官方支持的设备的Gerrit：</p>
-<p>http<b><u>://gerrit.twrp.me/ XDA：DevDB信息</u></b><br>
-<b>团队Win Recovery项目-三星Galaxy S7 edge中国，三星Galaxy S7 Edge</b></p>
-<p><b><u>贡献者的</u></b><b>工具/实用工具</b><br>
-<a class="link link--internal" href="http://forum.xda-developers.com/member.php?u=5672995">jcadduono</a>，Team Win和朋友<br>
-<b>源代码：</b> https://github.com/TeamWin/android_device_samsung_hero2qltechn</p>
-<p><b><u>版本信息</u></b><br>
-<b>状态：</b>稳定<br>
-<b>当前稳定版本：</b> 3.0.2-0<br>
-<b>稳定发布日期：</b> 2016-09-09</p>
-<p><b>创建于</b>2016-09-10<br>
-<b>最近更新于</b>2016-11-22</p>
-<p>转载<a href="https://forum.xda-developers.com/t/recovery-qualcomm-official-twrp-for-the-galaxy-s7-edge-hero2qltechn.3458589/">自</a></p>
-			</div>
+					</div>
 <!-- .entry-content -->
 
 	<footer class="entry-meta">

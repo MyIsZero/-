@@ -12,7 +12,7 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/author/ohaig/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Sun, 10 Apr 2022 05:59:16 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 25 Sep 2022 09:06:30 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,67 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>利用iptables实现端口转发</title>
+		<link>https://myiszero.github.io/mywebsite/946.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 25 Sep 2022 09:05:16 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=946</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NSudo &#8211; 系统管理工具包</title>
+		<link>https://myiszero.github.io/mywebsite/944.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 25 Sep 2022 09:02:51 +0000</pubDate>
+				<category><![CDATA[文章]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=944</guid>
+
+					<description><![CDATA[用于系统权限运行应用程序]]></description>
+										<content:encoded><![CDATA[<p>用于系统权限运行应用程序</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>iptables (简体中文)配置</title>
+		<link>https://myiszero.github.io/mywebsite/942.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 25 Sep 2022 09:00:40 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=942</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>俺たちに翼はない攻略</title>
+		<link>https://myiszero.github.io/mywebsite/940.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 25 Sep 2022 08:58:05 +0000</pubDate>
+				<category><![CDATA[GAL]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=940</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>火狐浏览器禁止加载图片</title>
 		<link>https://myiszero.github.io/mywebsite/931.html</link>
 		
@@ -102,68 +163,6 @@
 		<pubDate>Sat, 09 Apr 2022 16:53:18 +0000</pubDate>
 				<category><![CDATA[Game]]></category>
 		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=920</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>【汉化＆官中】【硬盘】9-nine-天色天歌天音／9-nine-天色天歌天籁音／9-nine-:Episode 2（9-nine-そらいろそらうたそらのおと）</title>
-		<link>https://myiszero.github.io/mywebsite/917.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 09 Apr 2022 16:49:19 +0000</pubDate>
-				<category><![CDATA[GAL]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=917</guid>
-
-					<description><![CDATA[次元图书馆（访问码：cycg）解密：Sperte]]></description>
-										<content:encoded><![CDATA[<p><a href="https://pan.cycg.xyz/d/2kjK2XBE/%E8%A7%86%E8%A7%89%E5%B0%8F%E8%AF%B4/%E3%80%90%E6%B1%89%E5%8C%96%E3%80%91%E3%80%90%E7%A1%AC%E7%9B%98%E3%80%919-nine-%E3%81%9D%E3%82%89%E3%81%84%E3%82%8D%E3%81%9D%E3%82%89%E3%81%86%E3%81%9F%E3%81%9D%E3%82%89%E3%81%AE%E3%81%8A%E3%81%A8">次元图书馆</a>（访问码：cycg）解密：Sperte</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>KrkrExtract</title>
-		<link>https://myiszero.github.io/mywebsite/913.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 09 Apr 2022 16:45:18 +0000</pubDate>
-				<category><![CDATA[GAL]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=913</guid>
-
-					<description><![CDATA[一个工具可以提取和打包krkr2和krkrz的xp3文件（32Bit &#38; &#8230; <a href="https://myiszero.github.io/mywebsite/913.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p><span class="VIiyi" lang="zh-CN"><span class="JLqJ4b ChMk0b" data-language-for-alternatives="zh-CN" data-language-to-translate-into="en" data-phrase-index="0" data-number-of-phrases="1"><span class="Q4iAWc">一个工具可以提取和打包krkr2和krkrz的xp3文件（32Bit &amp; 64Bit）</span></span></span></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>GitMiner：用于Github的高级敏感内容挖掘工具</title>
-		<link>https://myiszero.github.io/mywebsite/905.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 04 Dec 2021 12:37:22 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=905</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>ssh登录密码破解</title>
-		<link>https://myiszero.github.io/mywebsite/903.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 04 Dec 2021 09:29:38 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=903</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

@@ -113,6 +113,8 @@ img.emoji {
 <li id="menu-item-11" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-11"><a href="https://myiszero.github.io/mywebsite/category/hacker">Hacker</a></li>
 <li id="menu-item-912" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-912"><a href="https://myiszero.github.io/mywebsite/category/gal">GAL</a></li>
 <li id="menu-item-919" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-919"><a href="https://myiszero.github.io/mywebsite/category/game">Game</a></li>
+<li id="menu-item-948" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-948"><a href="https://myiszero.github.io/mywebsite/category/linux">Linux</a></li>
+<li id="menu-item-951" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-951"><a href="https://myiszero.github.io/mywebsite/category/python">python</a></li>
 </ul></div>			</nav><!-- #access -->
 	</header><!-- #branding -->
 
@@ -140,8 +142,7 @@ img.emoji {
 			</header><!-- .entry-header -->
 
 	<div class="entry-content">
-		<p><span id="more-582"></span></p>
-<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">发paper这种事，我作为本科生也无法免俗，于是想着拿自己多年和WAF对抗的经验，看看能不能搞搞自动过WAF的技术。 闷头搞肯定是不行的，于是网上搜点相关paper读，同时也搜集乌云先知上的各种案例看看能不能找到点理论化的门道，然后就发现这些paper不太靠谱了..</span></p>
+		<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">发paper这种事，我作为本科生也无法免俗，于是想着拿自己多年和WAF对抗的经验，看看能不能搞搞自动过WAF的技术。 闷头搞肯定是不行的，于是网上搜点相关paper读，同时也搜集乌云先知上的各种案例看看能不能找到点理论化的门道，然后就发现这些paper不太靠谱了..</span></p>
 <p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">乌云和先知上面在payload的层面绕过WAF的案例，大部分是用WAF不认识的冷门函数和冷门语法冷门运算符冷门空字符来实现，还有一部分靠着花式注释让WAF误把注释的当做没注释，没注释的当做注释扰乱分析，一旦发现了一个点，WAF就绕过去了</span></p>
 <p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">但是各种论文里面的方式是，内置了一堆变异策略和替换策略，用各种算法选取它们，然后叠加起来绕过WAF。 在论文中，变异和替换策略是一来就给出来的，相当理所当然，而文章的重点就会放到各种神奇的策略选取算法</span></p>
 <p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">但真正的重点，实际上是貌似理所当然的变异和替换的策略，合适的变异策略和替换策略就能轻松瓦解WAF的防护，而不合适的策略再怎么叠加都无济于事。 这些策略是经验丰富的黑客根据对句法的理解和对WAF构造的理解一点点摸索出来的，而我所找到的paper没有一篇在讨论如何找到策略</span></p>

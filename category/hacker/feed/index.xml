@@ -12,7 +12,7 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/hacker/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Sat, 09 Apr 2022 17:03:30 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 25 Sep 2022 09:25:32 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -42,21 +42,6 @@
 		<pubDate>Sat, 04 Dec 2021 09:29:38 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
 		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=903</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>设置 SSH 通过密钥登录</title>
-		<link>https://myiszero.github.io/mywebsite/897.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 04 Dec 2021 09:22:51 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=897</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -163,11 +148,62 @@
 				<category><![CDATA[Hacker]]></category>
 		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=799</guid>
 
-					<description><![CDATA[字典项目：Web-Fuzzing-Box，更新一下： 1. 添加Wooyun漏洞 &#8230; <a href="https://myiszero.github.io/mywebsite/799.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p><span id="more-799"></span></p>
-<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">字典项目：Web-Fuzzing-Box，更新一下： 1. 添加Wooyun漏洞案例真实目录、文件字典； 2. 添加2020年Top200弱口令字典； 3. 新增端口字典：加入Wooyun漏洞案例真实端口字典； 4. 更新子域名字典：312W_Subdomains.txt =&gt; 314W_Subdomains.txt，加入2万+常用英语单词。 项目：</span></p>
-<p>https://github.com/gh0stkey/Web-Fuzzing-Box</p>
+					<description><![CDATA[字典项目：Web-Fuzzing-Box 更新一下： 1. 添加Wooyun漏洞 &#8230; <a href="https://myiszero.github.io/mywebsite/799.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">字典项目：Web-Fuzzing-Box</span></p>
+<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">更新一下： </span></p>
+<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">1. 添加Wooyun漏洞案例真实目录、文件字典； </span></p>
+<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">2. 添加2020年Top200弱口令字典； </span></p>
+<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">3. 新增端口字典：加入Wooyun漏洞案例真实端口字典； </span></p>
+<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">4. 更新子域名字典：312W_Subdomains.txt =&gt; 314W_Subdomains.txt，加入2万+常用英语单词。</span></p>
 <p>转<a href="https://twitter.com/Vulkey_Chen/status/1434425508477870080">自</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>等保測評&#038;護網漏洞利用工具整理</title>
+		<link>https://myiszero.github.io/mywebsite/689.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 21 Apr 2021 05:12:22 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">http://www.767.com/wp/?p=689</guid>
+
+					<description><![CDATA[浪潮ClusterEngineV4.0 sysShell文件遠程命令執行漏洞批量 &#8230; <a href="https://myiszero.github.io/mywebsite/689.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><strong>浪潮ClusterEngineV4.0 sysShell文件遠程命令執行漏洞批量掃描poc和exp</strong><br />
+https://github.com/MzzdToT/ClusterEngineV4.0sysShell_rce</p>
+<p><strong>TSLab-Exploit</strong><br />
+https://github.com/tangxiaofeng7/TSLab-Exploit</p>
+<p><strong>NSNGFW網康下一代防火牆RCE 漏洞批量檢測&amp;利用&amp;批量getshell</strong><br />
+https://github.com/S0por/NSNGFW-RCE-POC_EXP</p>
+<p><strong>銀澎雲計算 好視通視頻會議系統存在任意文件下載</strong><br />
+https://github.com/MzzdToT/CNVD-2020-62437</p>
+<p><strong>About致遠OA A8 某些版本批量getshell漏洞</strong><br />
+https://github.com/timwhitez/seeyon-OA-A8-GetShell</p>
+<p><strong>CVE-2021-22986 f5 rce 漏洞批量檢測 poc</strong><br />
+https://github.com/S1xHcL/f5_rce_poc</p>
+<p><strong>寶塔phpmyadmin未授權漏洞批量掃描工具</strong><br />
+https://github.com/MzzdToT/baota20200823</p>
+<p><strong>批量測試ip是否存在某漏洞</strong><br />
+https://github.com/imoki/imoki-poc</p>
+<p><strong>智慧校園管理系統前台任意文件上傳漏洞批量掃描</strong><br />
+https://github.com/MzzdToT/zhihuixiaoyuan_upload_rce</p>
+<p><strong>通達OA前台任意用戶偽造登錄漏洞批量檢測</strong><br />
+https://github.com/dacade/-OA-</p>
+<p><strong>通達OA 任意用戶登錄漏洞</strong><br />
+https://github.com/NS-Sp4ce/TongDaOA-Fake-User</p>
+<p><strong>深信服EDR命令執行檢測POC</strong><br />
+https://github.com/hackmang/SXFedrpoc</p>
+<p><strong>深信服edr遠程命令執行</strong><br />
+https://github.com/yaunsky/sangforEdr<br />
+<strong><br />
+寶塔7.4.2版本pma漏洞驗證poc</strong><br />
+https://github.com/shiyeshu/BT_7.4.2_POC</p>
+<p><strong>寶塔phpmyadmin未授權漏洞批量掃描</strong><br />
+https://github.com/MzzdToT/baota20200823</p>
+<p><strong>python 批量檢測泛微雲橋任意文件讀取漏洞</strong><br />
+https://www.cnblogs.com/TaoLeonis/p/14552224.html</p>
 ]]></content:encoded>
 					
 		

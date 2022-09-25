@@ -113,6 +113,8 @@ img.emoji {
 <li id="menu-item-11" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11"><a href="https://myiszero.github.io/mywebsite/category/hacker">Hacker</a></li>
 <li id="menu-item-912" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-912"><a href="https://myiszero.github.io/mywebsite/category/gal">GAL</a></li>
 <li id="menu-item-919" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-919"><a href="https://myiszero.github.io/mywebsite/category/game">Game</a></li>
+<li id="menu-item-948" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-948"><a href="https://myiszero.github.io/mywebsite/category/linux">Linux</a></li>
+<li id="menu-item-951" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-951"><a href="https://myiszero.github.io/mywebsite/category/python">python</a></li>
 </ul></div>			</nav><!-- #access -->
 	</header><!-- #branding -->
 
@@ -132,7 +134,7 @@ img.emoji {
 					
 <article id="post-460" class="post-460 post type-post status-publish format-standard hentry category-article">
 	<header class="entry-header">
-		<h1 class="entry-title">LNMP开启exif支持</h1>
+		<h1 class="entry-title"><a href="https://www.psay.cn/toss/147.html" target="_blank" rel="noopener">LNMP开启exif支持</a></h1>
 
 				<div class="entry-meta">
 			<span class="sep">发表于</span><a href="https://myiszero.github.io/mywebsite/460.html" title="上午3:02" rel="bookmark"><time class="entry-date" datetime="2021-02-21T03:02:38+08:00">2021年2月21日</time></a><span class="by-author"><span class="sep">由</span><span class="author vcard"><a class="url fn n" href="https://myiszero.github.io/mywebsite/author/ohaig" title="查看所有由admin发布的文章" rel="author">admin</a></span></span>		</div>
@@ -140,74 +142,7 @@ img.emoji {
 			</header><!-- .entry-header -->
 
 	<div class="entry-content">
-		<p><span id="more-460"></span>更新时间：2020-07-18 22:54:39</p>
-<p>在安装LNMP时，我们可以在PHP_Modules_Options 添加PHP模块或编译参数 &#8211;enable-exif，这样就可以安装时就自动将exif安装上去。如果后面需要增加exif，请按以下步骤进行：</p>
-<p>1、进入lnmp安装包目录：</p>
-<div data-no-instant="">
-<pre class="line-numbers  language-shell"><code class=" language-shell"><span class="token builtin class-name">cd</span> /root/lnmp1.6/src/
-</code></pre>
-</div>
-<p>2、解压对应版本的压缩包：</p>
-<div data-no-instant="">
-<pre class="line-numbers  language-shell"><code class=" language-shell"><span class="token function">tar</span> -xvf php-7.3.11.tar.bz2
-</code></pre>
-</div>
-<p>3、进入扩展目录：</p>
-<div data-no-instant="">
-<pre class="line-numbers  language-shell"><code class=" language-shell"><span class="token builtin class-name">cd</span> php-7.3.11/ext/exif
-</code></pre>
-</div>
-<p>4、执行命令：</p>
-<div data-no-instant="">
-<pre class="line-numbers  language-shell"><code class=" language-shell">/usr/local/php/bin/phpize
-</code></pre>
-</div>
-<p>会返回：</p>
-<div data-no-instant="">
-<pre class="line-numbers  language-shell"><code class=" language-shell">Configuring for:
-PHP Api Version: <span class="token number">20180731</span>
-Zend Module Api No: <span class="token number">20180731</span>
-Zend Extension Api No: <span class="token number">320180731</span>
-</code></pre>
-</div>
-<p>5、进行配置：</p>
-<div data-no-instant="">
-<pre class="line-numbers  language-shell"><code class=" language-shell">./configure --with-php-config<span class="token operator">=</span>/usr/local/php/bin/php-config
-</code></pre>
-</div>
-<p>6、进行编译：</p>
-<div data-no-instant="">
-<pre class="line-numbers  language-shell"><code class=" language-shell"><span class="token function">make</span> <span class="token operator">&amp;&amp;</span> <span class="token function">make</span> <span class="token function">install</span>
-</code></pre>
-</div>
-<p>7、修改配置：</p>
-<div data-no-instant="">
-<pre class="line-numbers  language-shell"><code class=" language-shell"><span class="token function">vi</span> /usr/local/php/etc/php.ini
-</code></pre>
-</div>
-<p>直接在文件最后增加一行：</p>
-<div data-no-instant="">
-<pre class="line-numbers  language-shell"><code class=" language-shell">extension <span class="token operator">=</span> <span class="token string">"exif.so"</span>
-</code></pre>
-</div>
-<p>8、重启php-fpm服务：</p>
-<div data-no-instant="">
-<pre class="line-numbers  language-shell"><code class=" language-shell"><span class="token function">service</span> php-fpm restart
-</code></pre>
-</div>
-<p>这样就让php支持exif了。</p>
-<p><strong>注意：使用lnmp安装时，可在配置文件lnmp.conf中，直接添加php的&#8211;enable-exif扩展，安装过程中将自动安装exif，免去后续手动安装的繁琐。lnmp.conf中的修改内容如下：</strong></p>
-<div data-no-instant="">
-<pre class="line-numbers  language-nginx"><code class=" language-nginx">PHP_Modules_Options<span class="token operator">=</span><span class="token string">'--enable-exif'</span>
-</code></pre>
-</div>
-<div class="post-copyright">
-<div class="alert" role="alert">最后编辑时间为: 2020年07月18日 22:54:39</div>
-</div>
-<div role="alert"></div>
-<div role="alert">转载<a href="https://www.psay.cn/toss/147.html">自</a>
-</div>
-			</div>
+					</div>
 <!-- .entry-content -->
 
 	<footer class="entry-meta">

@@ -113,6 +113,8 @@ img.emoji {
 <li id="menu-item-11" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11"><a href="https://myiszero.github.io/mywebsite/category/hacker">Hacker</a></li>
 <li id="menu-item-912" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-912"><a href="https://myiszero.github.io/mywebsite/category/gal">GAL</a></li>
 <li id="menu-item-919" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-919"><a href="https://myiszero.github.io/mywebsite/category/game">Game</a></li>
+<li id="menu-item-948" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-948"><a href="https://myiszero.github.io/mywebsite/category/linux">Linux</a></li>
+<li id="menu-item-951" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-951"><a href="https://myiszero.github.io/mywebsite/category/python">python</a></li>
 </ul></div>			</nav><!-- #access -->
 	</header><!-- #branding -->
 
@@ -132,7 +134,7 @@ img.emoji {
 					
 <article id="post-685" class="post-685 post type-post status-publish format-standard hentry category-article">
 	<header class="entry-header">
-		<h1 class="entry-title">cmd批量ping多个IP地址并保存结果的命令</h1>
+		<h1 class="entry-title"><a href="http://www.xoxxoo.com/index/index/article/id/779.html" target="_blank" rel="noopener">cmd批量ping多个IP地址并保存结果的命令</a></h1>
 
 				<div class="entry-meta">
 			<span class="sep">发表于</span><a href="https://myiszero.github.io/mywebsite/685.html" title="下午9:04" rel="bookmark"><time class="entry-date" datetime="2021-04-06T21:04:13+08:00">2021年4月6日</time></a><span class="by-author"><span class="sep">由</span><span class="author vcard"><a class="url fn n" href="https://myiszero.github.io/mywebsite/author/ohaig" title="查看所有由admin发布的文章" rel="author">admin</a></span></span>		</div>
@@ -140,19 +142,7 @@ img.emoji {
 			</header><!-- .entry-header -->
 
 	<div class="entry-content">
-		<p><span id="more-685"></span></p>
-<pre class="brush:vb;toolbar:false">for /l %i in (1,1,255) do ping -n 1 -w 60 192.168.0.%i | find "Reply" &gt;&gt; d:\pingall.log</pre>
-<p>备注：</p>
-<p>%i in (1,1,255) ——是遍历主机位从1 ~ 255的所有IP</p>
-<p>-n——ping 的次数</p>
-<p>-w ——timeout 时间</p>
-<p>192.168.0.%i ——遍历IP 自192.168.0.1 ~ 192.168.0.255的所有IP</p>
-<p>| find ——管道，将前面的结果通过管道输入给后面的命令</p>
-<p>&gt;&gt;重定向，将结果写进d:\pingall.log这个文件</p>
-<p>不用管道也可以，直接将所有结果写入文件</p>
-<pre class="brush:vb;toolbar:false">for /l %i in (1,1,255) do ping -n 1 -w 60 192.168.0.%i &gt;&gt; d:\pingall.log</pre>
-<p>转<a href="http://www.xoxxoo.com/index/index/article/id/779.html">自</a></p>
-			</div>
+					</div>
 <!-- .entry-content -->
 
 	<footer class="entry-meta">

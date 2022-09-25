@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Linux &#8211; 取名好难啊</title>
+	<atom:link href="https://myiszero.github.io/mywebsite/category/linux/feed" rel="self" type="application/rss+xml" />
+	<link>https://myiszero.github.io/mywebsite</link>
+	<description>我的收藏夹</description>
+	<lastBuildDate>Sun, 25 Sep 2022 09:30:23 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>利用iptables实现端口转发</title>
+		<link>https://myiszero.github.io/mywebsite/946.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 25 Sep 2022 09:05:16 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=946</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>iptables (简体中文)配置</title>
+		<link>https://myiszero.github.io/mywebsite/942.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 25 Sep 2022 09:00:40 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=942</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>sed 指定行后 行前插入 sed用法</title>
+		<link>https://myiszero.github.io/mywebsite/901.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 04 Dec 2021 09:27:57 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=901</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>设置 SSH 通过密钥登录</title>
+		<link>https://myiszero.github.io/mywebsite/897.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 04 Dec 2021 09:22:51 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=897</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Kali内核等文件</title>
+		<link>https://myiszero.github.io/mywebsite/873.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 07 Nov 2021 11:17:53 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=873</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Linux 合并多个txt文件到一个文件</title>
+		<link>https://myiszero.github.io/mywebsite/862.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 16 Oct 2021 15:30:39 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=862</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Vim去除重复行</title>
+		<link>https://myiszero.github.io/mywebsite/811.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 08 Sep 2021 16:57:34 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=811</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>vim在每行行首或行尾添加/删除内容</title>
+		<link>https://myiszero.github.io/mywebsite/809.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 08 Sep 2021 16:57:03 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=809</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Linux 查看端口占用情况</title>
+		<link>https://myiszero.github.io/mywebsite/697.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 13 May 2021 14:11:27 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=697</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>RESTCONF代替ssh</title>
+		<link>https://myiszero.github.io/mywebsite/667.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 28 Mar 2021 13:40:50 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">http://www.767.com/wp/?p=667</guid>
+
+					<description><![CDATA[和教授聊起 Juniper 配置的时候我说我用 SSH 连上配的，教授：还 SS &#8230; <a href="https://myiszero.github.io/mywebsite/667.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">和教授聊起 Juniper 配置的时候我说我用 SSH 连上配的，教授：还 SSH 呢，过时了，用 RESTCONF 吧然后甩给我了下面的 RFC 和文章 和教授聊天总能学到点什么</span><span id="more-667"></span></p>
+<p><img loading="lazy" class="alignnone wp-image-717 size-full" src="https://myiszero.github.io/mywebsite/wp-content/uploads/2021/03/ExXoczwW8AEDiCH.jpg" alt="" width="680" height="572" srcset="https://myiszero.github.io/mywebsite/wp-content/uploads/2021/03/ExXoczwW8AEDiCH.jpg 680w, https://myiszero.github.io/mywebsite/wp-content/uploads/2021/03/ExXoczwW8AEDiCH-300x252.jpg 300w, https://myiszero.github.io/mywebsite/wp-content/uploads/2021/03/ExXoczwW8AEDiCH-357x300.jpg 357w" sizes="(max-width: 680px) 100vw, 680px" /></p>
+<p><img loading="lazy" class="alignnone wp-image-718 size-full" src="https://myiszero.github.io/mywebsite/wp-content/uploads/2021/03/ExXogtyXMAAVBoJ.jpg" alt="" width="680" height="510" srcset="https://myiszero.github.io/mywebsite/wp-content/uploads/2021/03/ExXogtyXMAAVBoJ.jpg 680w, https://myiszero.github.io/mywebsite/wp-content/uploads/2021/03/ExXogtyXMAAVBoJ-300x225.jpg 300w, https://myiszero.github.io/mywebsite/wp-content/uploads/2021/03/ExXogtyXMAAVBoJ-400x300.jpg 400w" sizes="(max-width: 680px) 100vw, 680px" /></p>
+<p>转<a href="https://twitter.com/K4YT3X/status/1375261246174470152">自</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -12,7 +12,7 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/article/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Sat, 09 Apr 2022 17:05:50 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 25 Sep 2022 09:02:51 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,22 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>NSudo &#8211; 系统管理工具包</title>
+		<link>https://myiszero.github.io/mywebsite/944.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 25 Sep 2022 09:02:51 +0000</pubDate>
+				<category><![CDATA[文章]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=944</guid>
+
+					<description><![CDATA[用于系统权限运行应用程序]]></description>
+										<content:encoded><![CDATA[<p>用于系统权限运行应用程序</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>火狐浏览器禁止加载图片</title>
 		<link>https://myiszero.github.io/mywebsite/931.html</link>
 		
@@ -27,21 +43,6 @@
 		<pubDate>Sat, 09 Apr 2022 17:05:50 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
 		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=931</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>sed 指定行后 行前插入 sed用法</title>
-		<link>https://myiszero.github.io/mywebsite/901.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 04 Dec 2021 09:27:57 +0000</pubDate>
-				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=901</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -72,21 +73,6 @@
 		<pubDate>Tue, 09 Nov 2021 03:39:23 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
 		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=887</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Python安装第三方包（模块/工具）出现链接超时，网速慢，安装不上的问题</title>
-		<link>https://myiszero.github.io/mywebsite/885.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 07 Nov 2021 12:25:04 +0000</pubDate>
-				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=885</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -140,13 +126,13 @@
 		
 			</item>
 		<item>
-		<title>Kali内核等文件</title>
-		<link>https://myiszero.github.io/mywebsite/873.html</link>
+		<title>虚拟机中kali linux 如何安装 deb文件</title>
+		<link>https://myiszero.github.io/mywebsite/871.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 07 Nov 2021 11:17:53 +0000</pubDate>
+		<pubDate>Sun, 07 Nov 2021 11:16:06 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=873</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=871</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -155,13 +141,28 @@
 		
 			</item>
 		<item>
-		<title>虚拟机中kali linux 如何安装 deb文件</title>
-		<link>https://myiszero.github.io/mywebsite/871.html</link>
+		<title>2021年Webmoney最新注册教程</title>
+		<link>https://myiszero.github.io/mywebsite/867.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 07 Nov 2021 11:16:06 +0000</pubDate>
+		<pubDate>Sun, 07 Nov 2021 11:10:46 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=871</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=867</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>LKs &#8211; 良心到难以置信的网站推荐</title>
+		<link>https://myiszero.github.io/mywebsite/851.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 18 Sep 2021 11:07:42 +0000</pubDate>
+				<category><![CDATA[文章]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=851</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

@@ -12,7 +12,7 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/gal/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Sun, 10 Apr 2022 05:59:16 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 25 Sep 2022 08:58:05 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,21 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>俺たちに翼はない攻略</title>
+		<link>https://myiszero.github.io/mywebsite/940.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 25 Sep 2022 08:58:05 +0000</pubDate>
+				<category><![CDATA[GAL]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=940</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Flyable Heart攻略</title>
 		<link>https://myiszero.github.io/mywebsite/929.html</link>
 		

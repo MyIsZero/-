@@ -108,11 +108,13 @@ img.emoji {
 			<nav id="access" role="navigation">
 				<h3 class="assistive-text">主页</h3>
 				<div class="menu-menu-1-container"><ul id="menu-menu-1" class="menu">
-<li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-8"><a href="https://myiszero.github.io/mywebsite/">最近更新</a></li>
-<li id="menu-item-10" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-10"><a href="https://myiszero.github.io/mywebsite/category/article">文章</a></li>
+<li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-post-parent menu-item-8"><a href="https://myiszero.github.io/mywebsite/">最近更新</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10"><a href="https://myiszero.github.io/mywebsite/category/article">文章</a></li>
 <li id="menu-item-11" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11"><a href="https://myiszero.github.io/mywebsite/category/hacker">Hacker</a></li>
 <li id="menu-item-912" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-912"><a href="https://myiszero.github.io/mywebsite/category/gal">GAL</a></li>
 <li id="menu-item-919" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-919"><a href="https://myiszero.github.io/mywebsite/category/game">Game</a></li>
+<li id="menu-item-948" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-948"><a href="https://myiszero.github.io/mywebsite/category/linux">Linux</a></li>
+<li id="menu-item-951" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-951"><a href="https://myiszero.github.io/mywebsite/category/python">python</a></li>
 </ul></div>			</nav><!-- #access -->
 	</header><!-- #branding -->
 
@@ -130,9 +132,9 @@ img.emoji {
 					</nav><!-- #nav-single -->
 
 					
-<article id="post-554" class="post-554 post type-post status-publish format-standard hentry category-article">
+<article id="post-554" class="post-554 post type-post status-publish format-standard hentry category-linux">
 	<header class="entry-header">
-		<h1 class="entry-title">Linux下修改Mysql密码的三种方式</h1>
+		<h1 class="entry-title"><a href="https://blog.csdn.net/qq_28082757/article/details/72395892" target="_blank" rel="noopener">Linux下修改Mysql密码的三种方式</a></h1>
 
 				<div class="entry-meta">
 			<span class="sep">发表于</span><a href="https://myiszero.github.io/mywebsite/554.html" title="下午8:50" rel="bookmark"><time class="entry-date" datetime="2021-03-18T20:50:04+08:00">2021年3月18日</time></a><span class="by-author"><span class="sep">由</span><span class="author vcard"><a class="url fn n" href="https://myiszero.github.io/mywebsite/author/ohaig" title="查看所有由admin发布的文章" rel="author">admin</a></span></span>		</div>
@@ -140,49 +142,11 @@ img.emoji {
 			</header><!-- .entry-header -->
 
 	<div class="entry-content">
-		<p><span id="more-554"></span>本文都以 root 用户为例<br>
-一、拥有原来的myql的root的密码</p>
-<p>方法一：<br>
-在mysql系统外，使用mysqladmin</p>
-<p>mysqladmin -u root -p password &#8220;test123&#8221;<br>
-Enter password: 【输入原来的密码】</p>
-<p>方法二：<br>
-通过登录mysql系统</p>
-<p>mysql -uroot -p<br>
-Enter password: 【输入原来的密码】<br>
-mysql&gt;use mysql;<br>
-mysql&gt; update user set password=passworD(&#8220;test&#8221;) where user=&#8217;root&#8217;;<br>
-mysql&gt; exit;</p>
-<p>注意：如果Mysql的版本是5.7及以上的话update语句如下：</p>
-<p>mysql&gt; update user set authentication_string=passworD(&#8220;test&#8221;) where user=&#8217;root&#8217;;</p>
-<p>然后执行：</p>
-<p>FLUSH PRIVILEGES;</p>
-<p>修改完密码记得重启mysql哦。</p>
-<p>二、忘记原来的myql的root的密码</p>
-<p>方法三：</p>
-<p>首先拿到操作系统的root权限，然后kill掉Mysql服务或者手动stop掉，这里我推荐使用手动stop；</p>
-<p>service mysql stop</p>
-<p>然后执行</p>
-<p>mysqld_safe &#8211;skip-grant-tables &amp;</p>
-<p>&amp;，表示在后台运行，不再后台运行的话，就再打开一个终端吧。<br>
-接着登陆MySQL修改密码</p>
-<p># mysql<br>
-mysql&gt; use mysql;<br>
-mysql&gt; UPDATE user SET password=password(&#8220;test123&#8221;) WHERE user=&#8217;root&#8217;;<br>
-mysql&gt; exit;</p>
-<p>注意：如果Mysql的版本是5.7及以上的话update语句如下：</p>
-<p>mysql&gt; update user set authentication_string=passworD(&#8220;test&#8221;) where user=&#8217;root&#8217;;</p>
-<p>然后执行：</p>
-<p>FLUSH PRIVILEGES;</p>
-<p>修改完密码记得重启mysql哦。</p>
-<p>如果是新安装的 Mysql 或 MariaDB，默认是没有密码的。如果想要设置 Root 密码，也可以参考情景一来设置。<br>
-如果出现 Enter password: 字符，直接回车即可，因为默认是没有密码的。</p>
-<p>转<a href="https://blog.csdn.net/qq_28082757/article/details/72395892">自</a></p>
-			</div>
+					</div>
 <!-- .entry-content -->
 
 	<footer class="entry-meta">
-		此条目是由<a href="https://myiszero.github.io/mywebsite/author/ohaig">admin</a>发表在<a href="https://myiszero.github.io/mywebsite/category/article" rel="category tag">文章</a>分类目录的。将<a href="https://myiszero.github.io/mywebsite/554.html" title="链向Linux下修改Mysql密码的三种方式的固定链接" rel="bookmark">固定链接</a>加入收藏夹。
+		此条目是由<a href="https://myiszero.github.io/mywebsite/author/ohaig">admin</a>发表在<a href="https://myiszero.github.io/mywebsite/category/linux" rel="category tag">Linux</a>分类目录的。将<a href="https://myiszero.github.io/mywebsite/554.html" title="链向Linux下修改Mysql密码的三种方式的固定链接" rel="bookmark">固定链接</a>加入收藏夹。
 		
 			</footer><!-- .entry-meta -->
 </article><!-- #post-554 -->
