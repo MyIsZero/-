@@ -12,7 +12,7 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/article/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Sun, 25 Sep 2022 09:02:51 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 28 Sep 2022 11:11:00 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,74 +20,30 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>NSudo &#8211; 系统管理工具包</title>
-		<link>https://myiszero.github.io/mywebsite/944.html</link>
+		<title>wordpress换域名</title>
+		<link>https://myiszero.github.io/mywebsite/1093.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 25 Sep 2022 09:02:51 +0000</pubDate>
+		<pubDate>Wed, 28 Sep 2022 11:08:29 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=944</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1093</guid>
 
-					<description><![CDATA[用于系统权限运行应用程序]]></description>
-										<content:encoded><![CDATA[<p>用于系统权限运行应用程序</p>
+					<description><![CDATA[WordPress网站更换域名详解 WordPress换域名+老域名301设置（ &#8230; <a href="https://myiszero.github.io/mywebsite/1093.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://zhuanlan.zhihu.com/p/147203680" target="_blank" rel="noopener">WordPress网站更换域名详解</a></p>
+<p><a href="http://www.95408.com/blog/3241.html" target="_blank" rel="noopener">WordPress换域名+老域名301设置（LNMP下Nginx）</a></p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>火狐浏览器禁止加载图片</title>
-		<link>https://myiszero.github.io/mywebsite/931.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 09 Apr 2022 17:05:50 +0000</pubDate>
-				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=931</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>xshell 安装遇到1603错误解决</title>
-		<link>https://myiszero.github.io/mywebsite/899.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 04 Dec 2021 09:24:29 +0000</pubDate>
-				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=899</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>【科普】别用枕头来枕“头”</title>
-		<link>https://myiszero.github.io/mywebsite/887.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 09 Nov 2021 03:39:23 +0000</pubDate>
-				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=887</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>快速计算文件的MD5/SHA1/SHA256等校验值（Windows/Linux）</title>
-		<link>https://myiszero.github.io/mywebsite/883.html</link>
+		<link>https://myiszero.github.io/mywebsite/1087.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 07 Nov 2021 12:23:33 +0000</pubDate>
+		<pubDate>Wed, 28 Sep 2022 11:01:02 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=883</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1087</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -96,13 +52,13 @@
 		
 			</item>
 		<item>
-		<title>网易云音乐歌词获取</title>
-		<link>https://myiszero.github.io/mywebsite/881.html</link>
+		<title>骂人宝典 / 祖安语录</title>
+		<link>https://myiszero.github.io/mywebsite/1085.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 07 Nov 2021 11:23:18 +0000</pubDate>
+		<pubDate>Wed, 28 Sep 2022 10:55:07 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=881</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1085</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -111,13 +67,13 @@
 		
 			</item>
 		<item>
-		<title>Git报错：The remote end hung up unexpectedly fatal</title>
-		<link>https://myiszero.github.io/mywebsite/875.html</link>
+		<title>从CCPD数据集中生成标注文件（xml)</title>
+		<link>https://myiszero.github.io/mywebsite/1083.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 07 Nov 2021 11:19:42 +0000</pubDate>
+		<pubDate>Wed, 28 Sep 2022 10:53:53 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=875</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1083</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -126,13 +82,13 @@
 		
 			</item>
 		<item>
-		<title>虚拟机中kali linux 如何安装 deb文件</title>
-		<link>https://myiszero.github.io/mywebsite/871.html</link>
+		<title>CCPD数据转成YOLO v5数据格式</title>
+		<link>https://myiszero.github.io/mywebsite/1081.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 07 Nov 2021 11:16:06 +0000</pubDate>
+		<pubDate>Wed, 28 Sep 2022 10:51:48 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=871</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1081</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -141,13 +97,29 @@
 		
 			</item>
 		<item>
-		<title>2021年Webmoney最新注册教程</title>
-		<link>https://myiszero.github.io/mywebsite/867.html</link>
+		<title>AD hosts</title>
+		<link>https://myiszero.github.io/mywebsite/1068.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 07 Nov 2021 11:10:46 +0000</pubDate>
+		<pubDate>Wed, 28 Sep 2022 09:43:32 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=867</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1068</guid>
+
+					<description><![CDATA[替换hosts文件屏蔽广告]]></description>
+										<content:encoded><![CDATA[<p><em>替换hosts文件屏蔽广告</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MSDN上下的Office 2016激活，需先零售版转VOL版</title>
+		<link>https://myiszero.github.io/mywebsite/1060.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 28 Sep 2022 09:38:27 +0000</pubDate>
+				<category><![CDATA[文章]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1060</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -156,13 +128,43 @@
 		
 			</item>
 		<item>
-		<title>LKs &#8211; 良心到难以置信的网站推荐</title>
-		<link>https://myiszero.github.io/mywebsite/851.html</link>
+		<title>Resilio Sync 介绍</title>
+		<link>https://myiszero.github.io/mywebsite/1054.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Sep 2021 11:07:42 +0000</pubDate>
+		<pubDate>Wed, 28 Sep 2022 09:35:25 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=851</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1054</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>如何找到便宜的电脑配件</title>
+		<link>https://myiszero.github.io/mywebsite/1048.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 28 Sep 2022 09:29:36 +0000</pubDate>
+				<category><![CDATA[文章]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1048</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>使用ssh连接Git仓库</title>
+		<link>https://myiszero.github.io/mywebsite/1040.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 28 Sep 2022 09:02:37 +0000</pubDate>
+				<category><![CDATA[文章]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1040</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

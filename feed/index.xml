@@ -12,7 +12,7 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Sun, 25 Sep 2022 09:06:30 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 28 Sep 2022 11:22:02 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,13 +20,13 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>利用iptables实现端口转发</title>
-		<link>https://myiszero.github.io/mywebsite/946.html</link>
+		<title>关于PJ WPA-PSK的一种方法延伸用彩虹表爆破</title>
+		<link>https://myiszero.github.io/mywebsite/1104.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 25 Sep 2022 09:05:16 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=946</guid>
+		<pubDate>Wed, 28 Sep 2022 11:21:34 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1104</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -35,29 +35,90 @@
 		
 			</item>
 		<item>
-		<title>NSudo &#8211; 系统管理工具包</title>
-		<link>https://myiszero.github.io/mywebsite/944.html</link>
+		<title>hashcat 工具跑包</title>
+		<link>https://myiszero.github.io/mywebsite/1102.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 25 Sep 2022 09:02:51 +0000</pubDate>
-				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=944</guid>
+		<pubDate>Wed, 28 Sep 2022 11:18:40 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1102</guid>
 
-					<description><![CDATA[用于系统权限运行应用程序]]></description>
-										<content:encoded><![CDATA[<p>用于系统权限运行应用程序</p>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Python中字符串String去除出换行符(\n,\r)和空格的问题</title>
+		<link>https://myiszero.github.io/mywebsite/1100.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 28 Sep 2022 11:15:33 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1100</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Python读取各种格式的txt文档（ANSI、Unicode、Unicode big endian、UTF-8等）</title>
+		<link>https://myiszero.github.io/mywebsite/1098.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 28 Sep 2022 11:14:57 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1098</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>hashcat（wifi暴力破解）</title>
+		<link>https://myiszero.github.io/mywebsite/1096.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 28 Sep 2022 11:13:17 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1096</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>wordpress换域名</title>
+		<link>https://myiszero.github.io/mywebsite/1093.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 28 Sep 2022 11:08:29 +0000</pubDate>
+				<category><![CDATA[文章]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1093</guid>
+
+					<description><![CDATA[WordPress网站更换域名详解 WordPress换域名+老域名301设置（ &#8230; <a href="https://myiszero.github.io/mywebsite/1093.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://zhuanlan.zhihu.com/p/147203680" target="_blank" rel="noopener">WordPress网站更换域名详解</a></p>
+<p><a href="http://www.95408.com/blog/3241.html" target="_blank" rel="noopener">WordPress换域名+老域名301设置（LNMP下Nginx）</a></p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>iptables (简体中文)配置</title>
-		<link>https://myiszero.github.io/mywebsite/942.html</link>
+		<title>HPing3构造多种类型DDOS攻击使用详解</title>
+		<link>https://myiszero.github.io/mywebsite/1091.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 25 Sep 2022 09:00:40 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=942</guid>
+		<pubDate>Wed, 28 Sep 2022 11:04:34 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1091</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -66,13 +127,13 @@
 		
 			</item>
 		<item>
-		<title>俺たちに翼はない攻略</title>
-		<link>https://myiszero.github.io/mywebsite/940.html</link>
+		<title>Python安装第三方包（模块/工具）出现链接超时，网速慢，安装不上的问题如何解决</title>
+		<link>https://myiszero.github.io/mywebsite/1089.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 25 Sep 2022 08:58:05 +0000</pubDate>
-				<category><![CDATA[GAL]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=940</guid>
+		<pubDate>Wed, 28 Sep 2022 11:02:04 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1089</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -81,13 +142,13 @@
 		
 			</item>
 		<item>
-		<title>火狐浏览器禁止加载图片</title>
-		<link>https://myiszero.github.io/mywebsite/931.html</link>
+		<title>快速计算文件的MD5/SHA1/SHA256等校验值（Windows/Linux）</title>
+		<link>https://myiszero.github.io/mywebsite/1087.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 09 Apr 2022 17:05:50 +0000</pubDate>
+		<pubDate>Wed, 28 Sep 2022 11:01:02 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=931</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1087</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -96,73 +157,13 @@
 		
 			</item>
 		<item>
-		<title>Flyable Heart攻略</title>
-		<link>https://myiszero.github.io/mywebsite/929.html</link>
+		<title>骂人宝典 / 祖安语录</title>
+		<link>https://myiszero.github.io/mywebsite/1085.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 09 Apr 2022 17:02:25 +0000</pubDate>
-				<category><![CDATA[GAL]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=929</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>CLANNAD游戏全攻略</title>
-		<link>https://myiszero.github.io/mywebsite/927.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 09 Apr 2022 17:01:21 +0000</pubDate>
-				<category><![CDATA[GAL]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=927</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>天使不在的12月（天使のいない12月）攻略</title>
-		<link>https://myiszero.github.io/mywebsite/925.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 09 Apr 2022 17:00:04 +0000</pubDate>
-				<category><![CDATA[GAL]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=925</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>天神乱漫#游戏攻略</title>
-		<link>https://myiszero.github.io/mywebsite/922.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 09 Apr 2022 16:55:28 +0000</pubDate>
-				<category><![CDATA[GAL]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=922</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>环世界1.3自用mod列表（多图预警！！）</title>
-		<link>https://myiszero.github.io/mywebsite/920.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 09 Apr 2022 16:53:18 +0000</pubDate>
-				<category><![CDATA[Game]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=920</guid>
+		<pubDate>Wed, 28 Sep 2022 10:55:07 +0000</pubDate>
+				<category><![CDATA[文章]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1085</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

@@ -12,7 +12,7 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/python/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Sun, 25 Sep 2022 09:58:44 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 28 Sep 2022 11:22:02 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,51 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>Python中字符串String去除出换行符(\n,\r)和空格的问题</title>
+		<link>https://myiszero.github.io/mywebsite/1100.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 28 Sep 2022 11:15:33 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1100</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Python读取各种格式的txt文档（ANSI、Unicode、Unicode big endian、UTF-8等）</title>
+		<link>https://myiszero.github.io/mywebsite/1098.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 28 Sep 2022 11:14:57 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1098</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Python安装第三方包（模块/工具）出现链接超时，网速慢，安装不上的问题如何解决</title>
+		<link>https://myiszero.github.io/mywebsite/1089.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 28 Sep 2022 11:02:04 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1089</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Python安装第三方包（模块/工具）出现链接超时，网速慢，安装不上的问题</title>
 		<link>https://myiszero.github.io/mywebsite/885.html</link>
 		
@@ -126,84 +171,6 @@
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>获取目录下所有文件</title>
-		<link>https://myiszero.github.io/mywebsite/632.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 22 Mar 2021 09:21:00 +0000</pubDate>
-				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">http://www.767.com/wp/?p=632</guid>
-
-					<description><![CDATA[import os path = os.getcwd() print (os.l &#8230; <a href="https://myiszero.github.io/mywebsite/632.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p>import os</p>
-<p>path = os.getcwd()</p>
-<p>print (os.listdir(path))</p>
-<p>os.listdir获取目录下所有文件</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>python int转str</title>
-		<link>https://myiszero.github.io/mywebsite/623.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 21 Mar 2021 09:11:07 +0000</pubDate>
-				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">http://www.767.com/wp/?p=623</guid>
-
-					<description><![CDATA[a = 3 str(a) print(type(a))]]></description>
-										<content:encoded><![CDATA[<p>a = 3</p>
-<p>str(a)</p>
-<p>print(type(a))</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Python下载URL图片</title>
-		<link>https://myiszero.github.io/mywebsite/620.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 21 Mar 2021 09:09:17 +0000</pubDate>
-				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">http://www.767.com/wp/?p=620</guid>
-
-					<description><![CDATA[使用第三方库requests： # coding: utf8 import re &#8230; <a href="https://myiszero.github.io/mywebsite/620.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p><span style="font-size: 14px;">使用第三方库requests：</span></p>
-<div>
-<div class="_2Uzcx_"></div>
-</div>
-<pre class="line-numbers language-python"><code class="python language-python"><span class="token comment"># coding: utf8</span>
-<span class="token keyword">import</span> requests
-
-<span class="token keyword">def</span> <span class="token function">download_img</span><span class="token punctuation">(</span>img_url<span class="token punctuation">,</span> api_token<span class="token punctuation">)</span><span class="token punctuation">:</span>
-    <span class="token keyword">print</span> <span class="token punctuation">(</span>img_url<span class="token punctuation">)</span>
-    header <span class="token operator">=</span> <span class="token punctuation">{</span><span class="token string">"Authorization"</span><span class="token punctuation">:</span> <span class="token string">"Bearer "</span> <span class="token operator">+</span> api_token<span class="token punctuation">}</span> <span class="token comment"># 设置http header，视情况加需要的条目，这里的token是用来鉴权的一种方式</span>
-    r <span class="token operator">=</span> requests<span class="token punctuation">.</span>get<span class="token punctuation">(</span>img_url<span class="token punctuation">,</span> headers<span class="token operator">=</span>header<span class="token punctuation">,</span> stream<span class="token operator">=</span><span class="token boolean">True</span><span class="token punctuation">)</span>
-    <span class="token keyword">print</span><span class="token punctuation">(</span>r<span class="token punctuation">.</span>status_code<span class="token punctuation">)</span> <span class="token comment"># 返回状态码</span>
-    <span class="token keyword">if</span> r<span class="token punctuation">.</span>status_code <span class="token operator">==</span> <span class="token number">200</span><span class="token punctuation">:</span>
-        <span class="token builtin">open</span><span class="token punctuation">(</span><span class="token string">'C:\\Users\\cloudoxou\\Desktop\\img.png'</span><span class="token punctuation">,</span> <span class="token string">'wb'</span><span class="token punctuation">)</span><span class="token punctuation">.</span>write<span class="token punctuation">(</span>r<span class="token punctuation">.</span>content<span class="token punctuation">)</span> <span class="token comment"># 将内容写入图片</span>
-        <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">"done"</span><span class="token punctuation">)</span>
-    <span class="token keyword">del</span> r
-
-<span class="token keyword">if</span> __name__ <span class="token operator">==</span> <span class="token string">'__main__'</span><span class="token punctuation">:</span>
-    <span class="token comment"># 下载要的图片</span>
-    img_url <span class="token operator">=</span> <span class="token string">"http://www.baidu.com/some_img_url"</span>
-    api_token <span class="token operator">=</span> <span class="token string">"fklasjfljasdlkfjlasjflasjfljhasdljflsdjflkjsadljfljsda"</span>
-    download_img<span class="token punctuation">(</span>img_url<span class="token punctuation">,</span> api_token<span class="token punctuation">)</span></code></pre>
-<p>&nbsp;</p>
-<div>
-<div>这里是用GET方法来直接请求图片URL，URL随便编的，其中加了一个header，是为了演示需要鉴权的情况，有些网站是需要登录才能访问的，这里的&#8221;Authorization&#8221;: &#8220;Bearer &#8220;就是一种鉴权方式</div>
-</div>
-]]></content:encoded>
 					
 		
 		
