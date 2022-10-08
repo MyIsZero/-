@@ -12,7 +12,7 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Wed, 28 Sep 2022 11:22:02 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 08 Oct 2022 02:39:34 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,105 +20,58 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>关于PJ WPA-PSK的一种方法延伸用彩虹表爆破</title>
-		<link>https://myiszero.github.io/mywebsite/1104.html</link>
+		<title>福州展会信息</title>
+		<link>https://myiszero.github.io/mywebsite/1133.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 11:21:34 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1104</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>hashcat 工具跑包</title>
-		<link>https://myiszero.github.io/mywebsite/1102.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 11:18:40 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1102</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Python中字符串String去除出换行符(\n,\r)和空格的问题</title>
-		<link>https://myiszero.github.io/mywebsite/1100.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 11:15:33 +0000</pubDate>
-				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1100</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Python读取各种格式的txt文档（ANSI、Unicode、Unicode big endian、UTF-8等）</title>
-		<link>https://myiszero.github.io/mywebsite/1098.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 11:14:57 +0000</pubDate>
-				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1098</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>hashcat（wifi暴力破解）</title>
-		<link>https://myiszero.github.io/mywebsite/1096.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 11:13:17 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1096</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>wordpress换域名</title>
-		<link>https://myiszero.github.io/mywebsite/1093.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 11:08:29 +0000</pubDate>
+		<pubDate>Sat, 01 Oct 2022 11:24:54 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1093</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1133</guid>
 
-					<description><![CDATA[WordPress网站更换域名详解 WordPress换域名+老域名301设置（ &#8230; <a href="https://myiszero.github.io/mywebsite/1093.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="https://zhuanlan.zhihu.com/p/147203680" target="_blank" rel="noopener">WordPress网站更换域名详解</a></p>
-<p><a href="http://www.95408.com/blog/3241.html" target="_blank" rel="noopener">WordPress换域名+老域名301设置（LNMP下Nginx）</a></p>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>HPing3构造多种类型DDOS攻击使用详解</title>
-		<link>https://myiszero.github.io/mywebsite/1091.html</link>
+		<title>直播诊所</title>
+		<link>https://myiszero.github.io/mywebsite/1131.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 11:04:34 +0000</pubDate>
+		<pubDate>Sat, 01 Oct 2022 11:21:21 +0000</pubDate>
+				<category><![CDATA[文章]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1131</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>将AZW3转换为PDF</title>
+		<link>https://myiszero.github.io/mywebsite/1128.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 11:16:41 +0000</pubDate>
+				<category><![CDATA[文章]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1128</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Fiddler汉化插件 &#038; 汉化文本</title>
+		<link>https://myiszero.github.io/mywebsite/1126.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 11:14:39 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1091</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1126</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -127,13 +80,28 @@
 		
 			</item>
 		<item>
-		<title>Python安装第三方包（模块/工具）出现链接超时，网速慢，安装不上的问题如何解决</title>
-		<link>https://myiszero.github.io/mywebsite/1089.html</link>
+		<title>burp添加插件</title>
+		<link>https://myiszero.github.io/mywebsite/1123.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 11:02:04 +0000</pubDate>
+		<pubDate>Sat, 01 Oct 2022 11:13:12 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1123</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>python判断密码大小写数字特殊字符</title>
+		<link>https://myiszero.github.io/mywebsite/1121.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 11:11:53 +0000</pubDate>
 				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1089</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1121</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -142,13 +110,13 @@
 		
 			</item>
 		<item>
-		<title>快速计算文件的MD5/SHA1/SHA256等校验值（Windows/Linux）</title>
-		<link>https://myiszero.github.io/mywebsite/1087.html</link>
+		<title>python字符串判断密码强弱</title>
+		<link>https://myiszero.github.io/mywebsite/1118.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 11:01:02 +0000</pubDate>
-				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1087</guid>
+		<pubDate>Sat, 01 Oct 2022 11:11:10 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1118</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -157,13 +125,43 @@
 		
 			</item>
 		<item>
-		<title>骂人宝典 / 祖安语录</title>
-		<link>https://myiszero.github.io/mywebsite/1085.html</link>
+		<title>python获取字符串的前几个字符（包含汉字）</title>
+		<link>https://myiszero.github.io/mywebsite/1116.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 10:55:07 +0000</pubDate>
-				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1085</guid>
+		<pubDate>Sat, 01 Oct 2022 11:10:09 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1116</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>python文件读写</title>
+		<link>https://myiszero.github.io/mywebsite/1114.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 11:08:43 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1114</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>SSH不允许root密码登录</title>
+		<link>https://myiszero.github.io/mywebsite/1112.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 11:07:12 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1112</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

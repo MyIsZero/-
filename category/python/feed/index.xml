@@ -12,7 +12,7 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/python/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Wed, 28 Sep 2022 11:22:02 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 01 Oct 2022 11:11:53 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,66 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>python判断密码大小写数字特殊字符</title>
+		<link>https://myiszero.github.io/mywebsite/1121.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 11:11:53 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1121</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>python字符串判断密码强弱</title>
+		<link>https://myiszero.github.io/mywebsite/1118.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 11:11:10 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1118</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>python获取字符串的前几个字符（包含汉字）</title>
+		<link>https://myiszero.github.io/mywebsite/1116.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 11:10:09 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1116</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>python文件读写</title>
+		<link>https://myiszero.github.io/mywebsite/1114.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 11:08:43 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1114</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Python中字符串String去除出换行符(\n,\r)和空格的问题</title>
 		<link>https://myiszero.github.io/mywebsite/1100.html</link>
 		
@@ -102,72 +162,6 @@
 		<pubDate>Thu, 09 Sep 2021 07:14:17 +0000</pubDate>
 				<category><![CDATA[python]]></category>
 		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=837</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>python 利用time模块给程序计时</title>
-		<link>https://myiszero.github.io/mywebsite/835.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 09 Sep 2021 07:12:48 +0000</pubDate>
-				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=835</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>python 判断是否为列表</title>
-		<link>https://myiszero.github.io/mywebsite/656.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 23 Mar 2021 06:14:08 +0000</pubDate>
-				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">http://www.767.com/wp/?p=656</guid>
-
-					<description><![CDATA[格式：print(isinstance(变量,list)) print(isin &#8230; <a href="https://myiszero.github.io/mywebsite/656.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p>格式：print(isinstance(变量,list))</p>
-<p>print(isinstance(slink,list))</p>
-<p>结果 ：true说明为列表(list)</p>
-<p>false说明不是列表(list)</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Python 条件语句</title>
-		<link>https://myiszero.github.io/mywebsite/638.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 22 Mar 2021 13:07:09 +0000</pubDate>
-				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">http://www.767.com/wp/?p=638</guid>
-
-					<description><![CDATA[and == &#38;&#38; == 且 or == &#124;&#124; == 或]]></description>
-										<content:encoded><![CDATA[<p>and == &amp;&amp; == 且</p>
-<p>or == || == 或</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Python对txt文件的指定行写入</title>
-		<link>https://myiszero.github.io/mywebsite/634.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 22 Mar 2021 12:58:53 +0000</pubDate>
-				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">http://www.767.com/wp/?p=634</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

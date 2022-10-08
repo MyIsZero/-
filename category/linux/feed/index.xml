@@ -12,7 +12,7 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/linux/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Sun, 25 Sep 2022 09:30:23 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 01 Oct 2022 11:07:12 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,36 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>SSH不允许root密码登录</title>
+		<link>https://myiszero.github.io/mywebsite/1112.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 11:07:12 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1112</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>SSH_keys_(简体中文) 选择认证密钥种类</title>
+		<link>https://myiszero.github.io/mywebsite/1109.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 11:06:13 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1109</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>利用iptables实现端口转发</title>
 		<link>https://myiszero.github.io/mywebsite/946.html</link>
 		
@@ -135,40 +165,6 @@
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Linux 查看端口占用情况</title>
-		<link>https://myiszero.github.io/mywebsite/697.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 13 May 2021 14:11:27 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=697</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>RESTCONF代替ssh</title>
-		<link>https://myiszero.github.io/mywebsite/667.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 28 Mar 2021 13:40:50 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">http://www.767.com/wp/?p=667</guid>
-
-					<description><![CDATA[和教授聊起 Juniper 配置的时候我说我用 SSH 连上配的，教授：还 SS &#8230; <a href="https://myiszero.github.io/mywebsite/667.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">和教授聊起 Juniper 配置的时候我说我用 SSH 连上配的，教授：还 SSH 呢，过时了，用 RESTCONF 吧然后甩给我了下面的 RFC 和文章 和教授聊天总能学到点什么</span><span id="more-667"></span></p>
-<p><img loading="lazy" class="alignnone wp-image-717 size-full" src="https://myiszero.github.io/mywebsite/wp-content/uploads/2021/03/ExXoczwW8AEDiCH.jpg" alt="" width="680" height="572" srcset="https://myiszero.github.io/mywebsite/wp-content/uploads/2021/03/ExXoczwW8AEDiCH.jpg 680w, https://myiszero.github.io/mywebsite/wp-content/uploads/2021/03/ExXoczwW8AEDiCH-300x252.jpg 300w, https://myiszero.github.io/mywebsite/wp-content/uploads/2021/03/ExXoczwW8AEDiCH-357x300.jpg 357w" sizes="(max-width: 680px) 100vw, 680px" /></p>
-<p><img loading="lazy" class="alignnone wp-image-718 size-full" src="https://myiszero.github.io/mywebsite/wp-content/uploads/2021/03/ExXogtyXMAAVBoJ.jpg" alt="" width="680" height="510" srcset="https://myiszero.github.io/mywebsite/wp-content/uploads/2021/03/ExXogtyXMAAVBoJ.jpg 680w, https://myiszero.github.io/mywebsite/wp-content/uploads/2021/03/ExXogtyXMAAVBoJ-300x225.jpg 300w, https://myiszero.github.io/mywebsite/wp-content/uploads/2021/03/ExXogtyXMAAVBoJ-400x300.jpg 400w" sizes="(max-width: 680px) 100vw, 680px" /></p>
-<p>转<a href="https://twitter.com/K4YT3X/status/1375261246174470152">自</a></p>
-]]></content:encoded>
 					
 		
 		

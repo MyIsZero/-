@@ -12,7 +12,7 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/hacker/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Wed, 28 Sep 2022 11:21:34 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 01 Oct 2022 11:14:39 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,36 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>Fiddler汉化插件 &#038; 汉化文本</title>
+		<link>https://myiszero.github.io/mywebsite/1126.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 11:14:39 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1126</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>burp添加插件</title>
+		<link>https://myiszero.github.io/mywebsite/1123.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 11:13:12 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1123</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>关于PJ WPA-PSK的一种方法延伸用彩虹表爆破</title>
 		<link>https://myiszero.github.io/mywebsite/1104.html</link>
 		
@@ -133,36 +163,6 @@
 		<pubDate>Sat, 04 Dec 2021 09:29:38 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
 		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=903</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>用hashcat超速破解WiFi密码</title>
-		<link>https://myiszero.github.io/mywebsite/879.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 07 Nov 2021 11:22:00 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=879</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>支持aircrack-ng的USB网卡</title>
-		<link>https://myiszero.github.io/mywebsite/869.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 07 Nov 2021 11:14:57 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=869</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
