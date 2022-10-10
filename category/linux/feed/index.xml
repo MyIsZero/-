@@ -12,7 +12,7 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/linux/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Sat, 01 Oct 2022 11:07:12 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Oct 2022 02:40:46 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,86 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>autosuggestions：比你更清楚你要输入什么</title>
+		<link>https://myiszero.github.io/mywebsite/1156.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 10 Oct 2022 02:40:46 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1156</guid>
+
+					<description><![CDATA[推荐几个好用命令行效率工具  cz-emoji：自己开发的中文 emoji gi &#8230; <a href="https://myiszero.github.io/mywebsite/1156.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">推荐几个好用命令行效率工具 </span></p>
+<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0"> cz-emoji：自己开发的中文 emoji git 代码提交</span><a class="css-4rbku5 css-18t94o4 css-901oao css-16my406 r-1cvl2hr r-1loqt21 r-poiln3 r-bcqeeo r-qvutc0" dir="ltr" role="link" href="https://t.co/8K5FzgeMvE" target="_blank" rel="noopener noreferrer nofollow"><span class="css-901oao css-16my406 r-poiln3 r-hiw28u r-qvk6io r-bcqeeo r-qvutc0" aria-hidden="true">https://</span>github.com/tw93/cz-emoji-<span class="css-901oao css-16my406 r-poiln3 r-hiw28u r-qvk6io r-bcqeeo r-qvutc0" aria-hidden="true">chinese</span></a> <span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0"> z：快速跳到你常访问的目录 </span><a class="css-4rbku5 css-18t94o4 css-901oao css-16my406 r-1cvl2hr r-1loqt21 r-poiln3 r-bcqeeo r-qvutc0" dir="ltr" role="link" href="https://t.co/7UXoFNGFFL" target="_blank" rel="noopener noreferrer nofollow"><span class="css-901oao css-16my406 r-poiln3 r-hiw28u r-qvk6io r-bcqeeo r-qvutc0" aria-hidden="true">https://</span>github.com/agkozak/zsh-z</a></p>
+<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">autosuggestions：比你更清楚你要输入什么 </span><a class="css-4rbku5 css-18t94o4 css-901oao css-16my406 r-1cvl2hr r-1loqt21 r-poiln3 r-bcqeeo r-qvutc0" dir="ltr" role="link" href="https://t.co/JuLCZHKvQF" target="_blank" rel="noopener noreferrer nofollow"><span class="css-901oao css-16my406 r-poiln3 r-hiw28u r-qvk6io r-bcqeeo r-qvutc0" aria-hidden="true">https://</span>github.com/zsh-users/zsh-<span class="css-901oao css-16my406 r-poiln3 r-hiw28u r-qvk6io r-bcqeeo r-qvutc0" aria-hidden="true">autosuggestions</span></a></p>
+<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">bat：cat 代码语法高亮 </span><a class="css-4rbku5 css-18t94o4 css-901oao css-16my406 r-1cvl2hr r-1loqt21 r-poiln3 r-bcqeeo r-qvutc0" dir="ltr" role="link" href="https://t.co/Jir5MEL6HD" target="_blank" rel="noopener noreferrer nofollow"><span class="css-901oao css-16my406 r-poiln3 r-hiw28u r-qvk6io r-bcqeeo r-qvutc0" aria-hidden="true">https://</span>github.com/sharkdp/bat</a></p>
+<p>转<a href="https://twitter.com/HiTw93/status/1578736074771206144" target="_blank" rel="noopener">自</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>记录一次使用cloudflare生成15年的SSL证书</title>
+		<link>https://myiszero.github.io/mywebsite/1150.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 10 Oct 2022 02:31:25 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1150</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>vim如何删除全文</title>
+		<link>https://myiszero.github.io/mywebsite/1148.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 10 Oct 2022 02:28:40 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1148</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>chmod命令原理及用法详解[通俗易懂]</title>
+		<link>https://myiszero.github.io/mywebsite/1146.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 10 Oct 2022 02:26:32 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1146</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>在终端ssh的断开方法</title>
+		<link>https://myiszero.github.io/mywebsite/1144.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 10 Oct 2022 02:24:43 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1144</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>SSH不允许root密码登录</title>
 		<link>https://myiszero.github.io/mywebsite/1112.html</link>
 		
@@ -87,81 +167,6 @@
 		<pubDate>Sat, 04 Dec 2021 09:27:57 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=901</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>设置 SSH 通过密钥登录</title>
-		<link>https://myiszero.github.io/mywebsite/897.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 04 Dec 2021 09:22:51 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=897</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Kali内核等文件</title>
-		<link>https://myiszero.github.io/mywebsite/873.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 07 Nov 2021 11:17:53 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=873</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Linux 合并多个txt文件到一个文件</title>
-		<link>https://myiszero.github.io/mywebsite/862.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 16 Oct 2021 15:30:39 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=862</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Vim去除重复行</title>
-		<link>https://myiszero.github.io/mywebsite/811.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 08 Sep 2021 16:57:34 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=811</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>vim在每行行首或行尾添加/删除内容</title>
-		<link>https://myiszero.github.io/mywebsite/809.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 08 Sep 2021 16:57:03 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=809</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

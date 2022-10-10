@@ -12,7 +12,7 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/hacker/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Sat, 01 Oct 2022 11:14:39 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Oct 2022 03:20:13 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,54 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>SQL注入的小技巧</title>
+		<link>https://myiszero.github.io/mywebsite/1160.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 10 Oct 2022 02:46:39 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1160</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><span id="more-1160"></span><img loading="lazy" class="alignnone size-full wp-image-1163" src="https://myiszero.github.io/mywebsite/wp-content/uploads/2022/10/FecikKcUcAAmMNM.jpg" alt="" width="705" height="975" srcset="https://myiszero.github.io/mywebsite/wp-content/uploads/2022/10/FecikKcUcAAmMNM.jpg 705w, https://myiszero.github.io/mywebsite/wp-content/uploads/2022/10/FecikKcUcAAmMNM-217x300.jpg 217w" sizes="(max-width: 705px) 100vw, 705px" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>找人利器</title>
+		<link>https://myiszero.github.io/mywebsite/1158.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 10 Oct 2022 02:42:59 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1158</guid>
+
+					<description><![CDATA[输入 id，就能把互联网上你的相关账号全部扒出来，而且不仅仅是简单的 id 匹配 &#8230; <a href="https://myiszero.github.io/mywebsite/1158.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">输入 id，就能把互联网上你的相关账号全部扒出来，而且不仅仅是简单的 id 匹配，你的用户资料字段也会被匹配，而且连 pornhub/xvideo 账号都有。</span></p>
+<p>转<a href="https://twitter.com/ezogreatagain/status/1578571422393257984" target="_blank" rel="noopener">自</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>使用PuTTY客户端（putty.exe或plink.exe）来执行SSH登录暴力攻击</title>
+		<link>https://myiszero.github.io/mywebsite/1142.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 10 Oct 2022 02:22:03 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1142</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Fiddler汉化插件 &#038; 汉化文本</title>
 		<link>https://myiszero.github.io/mywebsite/1126.html</link>
 		
@@ -117,52 +165,6 @@
 		<pubDate>Wed, 28 Sep 2022 09:48:44 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
 		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1079</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>r0capture</title>
-		<link>https://myiszero.github.io/mywebsite/1077.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 09:47:25 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1077</guid>
-
-					<description><![CDATA[安卓应用层抓包通杀脚本]]></description>
-										<content:encoded><![CDATA[<p>安卓应用层抓包通杀脚本</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>GitMiner：用于Github的高级敏感内容挖掘工具</title>
-		<link>https://myiszero.github.io/mywebsite/905.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 04 Dec 2021 12:37:22 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=905</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>ssh登录密码破解</title>
-		<link>https://myiszero.github.io/mywebsite/903.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 04 Dec 2021 09:29:38 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=903</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
