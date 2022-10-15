@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>基金 &#8211; 取名好难啊</title>
+	<atom:link href="https://myiszero.github.io/mywebsite/category/%E5%9F%BA%E9%87%91/feed" rel="self" type="application/rss+xml" />
+	<link>https://myiszero.github.io/mywebsite</link>
+	<description>我的收藏夹</description>
+	<lastBuildDate>Sat, 15 Oct 2022 04:38:50 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Stock_Predict_with_LSTM</title>
+		<link>https://myiszero.github.io/mywebsite/1213.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 04:38:50 +0000</pubDate>
+				<category><![CDATA[基金]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1213</guid>
+
+					<description><![CDATA[爬取天天基金数据，使用Pytorch LSTM训练，预测基金走势]]></description>
+										<content:encoded><![CDATA[<p>爬取天天基金数据，使用Pytorch LSTM训练，预测基金走势</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>xalpha</title>
+		<link>https://myiszero.github.io/mywebsite/1187.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 03:37:14 +0000</pubDate>
+				<category><![CDATA[基金]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1187</guid>
+
+					<description><![CDATA[基金投资管理回测引擎]]></description>
+										<content:encoded><![CDATA[<p>基金投资管理回测引擎</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Chicken Farm</title>
+		<link>https://myiszero.github.io/mywebsite/1185.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 03:34:45 +0000</pubDate>
+				<category><![CDATA[基金]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1185</guid>
+
+					<description><![CDATA[非专业，统计购买和卖出操作，分析持仓和收益，爬取基金净值，各种定投算法回测分析。]]></description>
+										<content:encoded><![CDATA[<p>非专业，统计购买和卖出操作，分析持仓和收益，爬取基金净值，各种定投算法回测分析。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>手把手教你利用Python爬虫分析基金、股票（实现财富自由）</title>
+		<link>https://myiszero.github.io/mywebsite/1182.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 03:29:13 +0000</pubDate>
+				<category><![CDATA[基金]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1182</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>以4433法則為基底的基金篩選工具</title>
+		<link>https://myiszero.github.io/mywebsite/1180.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 03:20:24 +0000</pubDate>
+				<category><![CDATA[基金]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1180</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

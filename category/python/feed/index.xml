@@ -12,7 +12,7 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/python/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Sat, 01 Oct 2022 11:11:53 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 15 Oct 2022 09:11:35 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,67 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>python正则截取字符串_用python正则提取字符串的方法</title>
+		<link>https://myiszero.github.io/mywebsite/1268.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 09:11:35 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1268</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Python读取文件报错</title>
+		<link>https://myiszero.github.io/mywebsite/1234.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 07:05:46 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1234</guid>
+
+					<description><![CDATA[UnicodeDecodeError: ‘gbk‘ codec can‘t de &#8230; <a href="https://myiszero.github.io/mywebsite/1234.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>UnicodeDecodeError: ‘gbk‘ codec can‘t decode byte 0x80 in position</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>python中的null值</title>
+		<link>https://myiszero.github.io/mywebsite/1227.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 05:27:52 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1227</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>python&#8211;获取参数输入(获取用户输入)</title>
+		<link>https://myiszero.github.io/mywebsite/1178.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 03:19:17 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1178</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>python判断密码大小写数字特殊字符</title>
 		<link>https://myiszero.github.io/mywebsite/1121.html</link>
 		
@@ -102,66 +163,6 @@
 		<pubDate>Wed, 28 Sep 2022 11:14:57 +0000</pubDate>
 				<category><![CDATA[python]]></category>
 		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1098</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Python安装第三方包（模块/工具）出现链接超时，网速慢，安装不上的问题如何解决</title>
-		<link>https://myiszero.github.io/mywebsite/1089.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 11:02:04 +0000</pubDate>
-				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1089</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Python安装第三方包（模块/工具）出现链接超时，网速慢，安装不上的问题</title>
-		<link>https://myiszero.github.io/mywebsite/885.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 07 Nov 2021 12:25:04 +0000</pubDate>
-				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=885</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>python每隔10分钟执行一次函数</title>
-		<link>https://myiszero.github.io/mywebsite/839.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 09 Sep 2021 07:15:33 +0000</pubDate>
-				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=839</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Python3之查看windows下所有进程并杀死指定进程</title>
-		<link>https://myiszero.github.io/mywebsite/837.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 09 Sep 2021 07:14:17 +0000</pubDate>
-				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=837</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

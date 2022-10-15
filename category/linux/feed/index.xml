@@ -12,7 +12,7 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/linux/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Mon, 10 Oct 2022 02:40:46 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 15 Oct 2022 08:58:14 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,126 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>Linux （ubuntu14.04）计划任务 crontab 从 nano 转换为 vim</title>
+		<link>https://myiszero.github.io/mywebsite/1258.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 08:58:14 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1258</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>linux ngrep命令、常见用法</title>
+		<link>https://myiszero.github.io/mywebsite/1254.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 08:53:28 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1254</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Linux搭建Socks5代理服务器</title>
+		<link>https://myiszero.github.io/mywebsite/1252.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 08:52:39 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1252</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>linux如何查看某个端口接收到的数据</title>
+		<link>https://myiszero.github.io/mywebsite/1250.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 08:50:40 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1250</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ngrep &#8211; 适用于Linux的网络数据包分析器</title>
+		<link>https://myiszero.github.io/mywebsite/1248.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 08:49:39 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1248</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>linux 下如何抓取HTTP流量包(httpry)</title>
+		<link>https://myiszero.github.io/mywebsite/1219.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 05:12:32 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1219</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>又一波你可能不知道的 Linux 命令行网络监控工具</title>
+		<link>https://myiszero.github.io/mywebsite/1215.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 05:06:26 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1215</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>linux两个文件交集，合并，去重</title>
+		<link>https://myiszero.github.io/mywebsite/1196.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 03:46:56 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1196</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>autosuggestions：比你更清楚你要输入什么</title>
 		<link>https://myiszero.github.io/mywebsite/1156.html</link>
 		
@@ -47,126 +167,6 @@
 		<pubDate>Mon, 10 Oct 2022 02:31:25 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1150</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>vim如何删除全文</title>
-		<link>https://myiszero.github.io/mywebsite/1148.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 10 Oct 2022 02:28:40 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1148</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>chmod命令原理及用法详解[通俗易懂]</title>
-		<link>https://myiszero.github.io/mywebsite/1146.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 10 Oct 2022 02:26:32 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1146</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>在终端ssh的断开方法</title>
-		<link>https://myiszero.github.io/mywebsite/1144.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 10 Oct 2022 02:24:43 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1144</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>SSH不允许root密码登录</title>
-		<link>https://myiszero.github.io/mywebsite/1112.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 01 Oct 2022 11:07:12 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1112</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>SSH_keys_(简体中文) 选择认证密钥种类</title>
-		<link>https://myiszero.github.io/mywebsite/1109.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 01 Oct 2022 11:06:13 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1109</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>利用iptables实现端口转发</title>
-		<link>https://myiszero.github.io/mywebsite/946.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 25 Sep 2022 09:05:16 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=946</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>iptables (简体中文)配置</title>
-		<link>https://myiszero.github.io/mywebsite/942.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 25 Sep 2022 09:00:40 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=942</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>sed 指定行后 行前插入 sed用法</title>
-		<link>https://myiszero.github.io/mywebsite/901.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 04 Dec 2021 09:27:57 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=901</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
