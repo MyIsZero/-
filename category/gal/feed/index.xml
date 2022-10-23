@@ -12,7 +12,7 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/gal/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Sat, 15 Oct 2022 03:05:58 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 23 Oct 2022 14:52:50 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,21 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>浅谈几个MetaGame</title>
+		<link>https://myiszero.github.io/mywebsite/1292.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 23 Oct 2022 14:52:50 +0000</pubDate>
+				<category><![CDATA[GAL]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1292</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>LunaTranslator</title>
 		<link>https://myiszero.github.io/mywebsite/1170.html</link>
 		
@@ -148,21 +163,6 @@
 		<pubDate>Wed, 28 Sep 2022 09:37:22 +0000</pubDate>
 				<category><![CDATA[GAL]]></category>
 		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1058</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>假如明日天放晴 攻略</title>
-		<link>https://myiszero.github.io/mywebsite/1056.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 09:36:23 +0000</pubDate>
-				<category><![CDATA[GAL]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1056</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

