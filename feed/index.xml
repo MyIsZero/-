@@ -12,7 +12,7 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Sun, 23 Oct 2022 15:15:13 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 29 Oct 2022 09:36:14 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,29 +20,13 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>LosslessCut</title>
-		<link>https://myiszero.github.io/mywebsite/1310.html</link>
+		<title>GROTESQUE: 3.0.1</title>
+		<link>https://myiszero.github.io/mywebsite/1346.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 23 Oct 2022 15:15:13 +0000</pubDate>
-				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1310</guid>
-
-					<description><![CDATA[无损视频/音频编辑的瑞士军刀]]></description>
-										<content:encoded><![CDATA[<p>无损视频/音频编辑的瑞士军刀</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>使用Aircrack-ng套件在5Ghz无线网频段</title>
-		<link>https://myiszero.github.io/mywebsite/1307.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 23 Oct 2022 15:08:20 +0000</pubDate>
+		<pubDate>Sat, 29 Oct 2022 09:36:14 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1307</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1346</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -51,28 +35,13 @@
 		
 			</item>
 		<item>
-		<title>坑爹的Secure Boot设置</title>
-		<link>https://myiszero.github.io/mywebsite/1305.html</link>
+		<title>DIGITALWORLD.LOCAL: SNAKEOIL</title>
+		<link>https://myiszero.github.io/mywebsite/1344.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 23 Oct 2022 15:07:29 +0000</pubDate>
-				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1305</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Python实现穷举法连接WiFi【小白也能实现】</title>
-		<link>https://myiszero.github.io/mywebsite/1303.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 23 Oct 2022 15:06:32 +0000</pubDate>
+		<pubDate>Sat, 29 Oct 2022 09:34:54 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1303</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1344</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -81,13 +50,13 @@
 		
 			</item>
 		<item>
-		<title>Hashcat的使用手册总结</title>
-		<link>https://myiszero.github.io/mywebsite/1301.html</link>
+		<title>EVILBOX: ONE</title>
+		<link>https://myiszero.github.io/mywebsite/1342.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 23 Oct 2022 15:04:44 +0000</pubDate>
+		<pubDate>Sat, 29 Oct 2022 09:33:55 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1301</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1342</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -96,13 +65,13 @@
 		
 			</item>
 		<item>
-		<title>WiFi暴力破解工具 字典破解</title>
-		<link>https://myiszero.github.io/mywebsite/1299.html</link>
+		<title>CHRONOS: 1</title>
+		<link>https://myiszero.github.io/mywebsite/1340.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 23 Oct 2022 15:03:23 +0000</pubDate>
+		<pubDate>Sat, 29 Oct 2022 08:14:06 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1299</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1340</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -111,13 +80,13 @@
 		
 			</item>
 		<item>
-		<title>密码字典</title>
-		<link>https://myiszero.github.io/mywebsite/1296.html</link>
+		<title>HACKSUDO: THOR</title>
+		<link>https://myiszero.github.io/mywebsite/1338.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 23 Oct 2022 15:00:16 +0000</pubDate>
+		<pubDate>Sat, 29 Oct 2022 08:13:06 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1296</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1338</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -126,43 +95,73 @@
 		
 			</item>
 		<item>
-		<title>近几年我在职场踩过的坑</title>
-		<link>https://myiszero.github.io/mywebsite/1294.html</link>
+		<title>HACKER KID: 1.0.1</title>
+		<link>https://myiszero.github.io/mywebsite/1335.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 23 Oct 2022 14:56:27 +0000</pubDate>
-				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1294</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>浅谈几个MetaGame</title>
-		<link>https://myiszero.github.io/mywebsite/1292.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 23 Oct 2022 14:52:50 +0000</pubDate>
-				<category><![CDATA[GAL]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1292</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Linux 入侵痕迹清理技巧</title>
-		<link>https://myiszero.github.io/mywebsite/1290.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 23 Oct 2022 14:50:32 +0000</pubDate>
+		<pubDate>Sat, 29 Oct 2022 08:12:13 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1290</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1335</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>LOOZ: 1</title>
+		<link>https://myiszero.github.io/mywebsite/1333.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 29 Oct 2022 08:11:30 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1333</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>CORROSION: 1 </title>
+		<link>https://myiszero.github.io/mywebsite/1331.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 29 Oct 2022 08:10:14 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1331</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>THALES: 1</title>
+		<link>https://myiszero.github.io/mywebsite/1329.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 29 Oct 2022 08:09:06 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1329</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ICA: 1</title>
+		<link>https://myiszero.github.io/mywebsite/1327.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 29 Oct 2022 08:08:09 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1327</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

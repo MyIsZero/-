@@ -12,7 +12,7 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/hacker/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Sun, 23 Oct 2022 15:08:20 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 29 Oct 2022 09:36:14 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,13 +20,13 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>使用Aircrack-ng套件在5Ghz无线网频段</title>
-		<link>https://myiszero.github.io/mywebsite/1307.html</link>
+		<title>GROTESQUE: 3.0.1</title>
+		<link>https://myiszero.github.io/mywebsite/1346.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 23 Oct 2022 15:08:20 +0000</pubDate>
+		<pubDate>Sat, 29 Oct 2022 09:36:14 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1307</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1346</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -35,13 +35,13 @@
 		
 			</item>
 		<item>
-		<title>Python实现穷举法连接WiFi【小白也能实现】</title>
-		<link>https://myiszero.github.io/mywebsite/1303.html</link>
+		<title>DIGITALWORLD.LOCAL: SNAKEOIL</title>
+		<link>https://myiszero.github.io/mywebsite/1344.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 23 Oct 2022 15:06:32 +0000</pubDate>
+		<pubDate>Sat, 29 Oct 2022 09:34:54 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1303</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1344</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -50,13 +50,13 @@
 		
 			</item>
 		<item>
-		<title>Hashcat的使用手册总结</title>
-		<link>https://myiszero.github.io/mywebsite/1301.html</link>
+		<title>EVILBOX: ONE</title>
+		<link>https://myiszero.github.io/mywebsite/1342.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 23 Oct 2022 15:04:44 +0000</pubDate>
+		<pubDate>Sat, 29 Oct 2022 09:33:55 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1301</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1342</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -65,13 +65,13 @@
 		
 			</item>
 		<item>
-		<title>WiFi暴力破解工具 字典破解</title>
-		<link>https://myiszero.github.io/mywebsite/1299.html</link>
+		<title>CHRONOS: 1</title>
+		<link>https://myiszero.github.io/mywebsite/1340.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 23 Oct 2022 15:03:23 +0000</pubDate>
+		<pubDate>Sat, 29 Oct 2022 08:14:06 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1299</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1340</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -80,13 +80,13 @@
 		
 			</item>
 		<item>
-		<title>密码字典</title>
-		<link>https://myiszero.github.io/mywebsite/1296.html</link>
+		<title>HACKSUDO: THOR</title>
+		<link>https://myiszero.github.io/mywebsite/1338.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 23 Oct 2022 15:00:16 +0000</pubDate>
+		<pubDate>Sat, 29 Oct 2022 08:13:06 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1296</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1338</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -95,13 +95,13 @@
 		
 			</item>
 		<item>
-		<title>Linux 入侵痕迹清理技巧</title>
-		<link>https://myiszero.github.io/mywebsite/1290.html</link>
+		<title>HACKER KID: 1.0.1</title>
+		<link>https://myiszero.github.io/mywebsite/1335.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 23 Oct 2022 14:50:32 +0000</pubDate>
+		<pubDate>Sat, 29 Oct 2022 08:12:13 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1290</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1335</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -110,13 +110,13 @@
 		
 			</item>
 		<item>
-		<title>linux系统入侵留后门方法+日志清除</title>
-		<link>https://myiszero.github.io/mywebsite/1288.html</link>
+		<title>LOOZ: 1</title>
+		<link>https://myiszero.github.io/mywebsite/1333.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 23 Oct 2022 14:49:33 +0000</pubDate>
+		<pubDate>Sat, 29 Oct 2022 08:11:30 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1288</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1333</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -125,13 +125,13 @@
 		
 			</item>
 		<item>
-		<title>渗透利器Weevely之奇淫技巧篇</title>
-		<link>https://myiszero.github.io/mywebsite/1285.html</link>
+		<title>CORROSION: 1 </title>
+		<link>https://myiszero.github.io/mywebsite/1331.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 23 Oct 2022 14:48:42 +0000</pubDate>
+		<pubDate>Sat, 29 Oct 2022 08:10:14 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1285</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1331</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -140,13 +140,13 @@
 		
 			</item>
 		<item>
-		<title>【Kali】渗透利器 Weevely 4.0 &#8212;Linux版本菜刀使用详解</title>
-		<link>https://myiszero.github.io/mywebsite/1283.html</link>
+		<title>THALES: 1</title>
+		<link>https://myiszero.github.io/mywebsite/1329.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 23 Oct 2022 14:47:55 +0000</pubDate>
+		<pubDate>Sat, 29 Oct 2022 08:09:06 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1283</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1329</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -155,13 +155,13 @@
 		
 			</item>
 		<item>
-		<title>与佛论禅</title>
-		<link>https://myiszero.github.io/mywebsite/1281.html</link>
+		<title>ICA: 1</title>
+		<link>https://myiszero.github.io/mywebsite/1327.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 23 Oct 2022 14:45:29 +0000</pubDate>
+		<pubDate>Sat, 29 Oct 2022 08:08:09 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1281</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1327</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
