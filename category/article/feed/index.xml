@@ -12,37 +12,52 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/article/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Sun, 23 Oct 2022 15:15:13 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 18 Mar 2023 04:49:35 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
-		<title>LosslessCut</title>
-		<link>https://myiszero.github.io/mywebsite/1310.html</link>
+		<title>MySQL 8.0.20安装教程（Win10）免安装版</title>
+		<link>https://myiszero.github.io/mywebsite/1576.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 23 Oct 2022 15:15:13 +0000</pubDate>
+		<pubDate>Sat, 18 Mar 2023 04:49:35 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1310</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1576</guid>
 
-					<description><![CDATA[无损视频/音频编辑的瑞士军刀]]></description>
-										<content:encoded><![CDATA[<p>无损视频/音频编辑的瑞士军刀</p>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>VirtualBox启动虚拟机报错</title>
+		<link>https://myiszero.github.io/mywebsite/1572.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 18 Mar 2023 04:47:43 +0000</pubDate>
+				<category><![CDATA[文章]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1572</guid>
+
+					<description><![CDATA[the vm session was closed before any att &#8230; <a href="https://myiszero.github.io/mywebsite/1572.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>the vm session was closed before any attempt to power it on</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>坑爹的Secure Boot设置</title>
-		<link>https://myiszero.github.io/mywebsite/1305.html</link>
+		<title>有哪些靠谱的租房平台</title>
+		<link>https://myiszero.github.io/mywebsite/1564.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 23 Oct 2022 15:07:29 +0000</pubDate>
+		<pubDate>Sat, 18 Mar 2023 04:42:25 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1305</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1564</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -51,13 +66,13 @@
 		
 			</item>
 		<item>
-		<title>近几年我在职场踩过的坑</title>
-		<link>https://myiszero.github.io/mywebsite/1294.html</link>
+		<title>蘑菇租房</title>
+		<link>https://myiszero.github.io/mywebsite/1562.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 23 Oct 2022 14:56:27 +0000</pubDate>
+		<pubDate>Sat, 18 Mar 2023 04:41:45 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1294</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1562</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -66,13 +81,13 @@
 		
 			</item>
 		<item>
-		<title>天眼查账号共享</title>
-		<link>https://myiszero.github.io/mywebsite/1277.html</link>
+		<title>清理 WinSxS 文件夹</title>
+		<link>https://myiszero.github.io/mywebsite/1540.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 23 Oct 2022 14:26:50 +0000</pubDate>
+		<pubDate>Sat, 18 Mar 2023 03:53:57 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1277</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1540</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -81,13 +96,13 @@
 		
 			</item>
 		<item>
-		<title>在线网络计算器</title>
-		<link>https://myiszero.github.io/mywebsite/1266.html</link>
+		<title>GitHub 文件加速</title>
+		<link>https://myiszero.github.io/mywebsite/1535.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 15 Oct 2022 09:10:36 +0000</pubDate>
+		<pubDate>Sat, 18 Mar 2023 03:48:14 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1266</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1535</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -96,13 +111,13 @@
 		
 			</item>
 		<item>
-		<title>Maple 轻量级通用 Windows 代理应用</title>
-		<link>https://myiszero.github.io/mywebsite/1264.html</link>
+		<title>临时邮箱</title>
+		<link>https://myiszero.github.io/mywebsite/1533.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 15 Oct 2022 09:02:06 +0000</pubDate>
+		<pubDate>Sat, 18 Mar 2023 03:47:10 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1264</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1533</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -111,48 +126,29 @@
 		
 			</item>
 		<item>
-		<title>Netch 一个简单的代理客户端</title>
-		<link>https://myiszero.github.io/mywebsite/1262.html</link>
+		<title>wallhaven</title>
+		<link>https://myiszero.github.io/mywebsite/1531.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 15 Oct 2022 09:00:37 +0000</pubDate>
+		<pubDate>Sat, 18 Mar 2023 03:46:12 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1262</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1531</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>黎明之剑 永恒石板</title>
-		<link>https://myiszero.github.io/mywebsite/1260.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 15 Oct 2022 08:59:31 +0000</pubDate>
-				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1260</guid>
-
-					<description><![CDATA[“……不要沉醉于这个虚幻的宁静长夜……夜幕终究会被打破…… “……不要沉溺于你们 &#8230; <a href="https://myiszero.github.io/mywebsite/1260.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p>“……不要沉醉于这个虚幻的宁静长夜……夜幕终究会被打破……</p>
-<p>“……不要沉溺于你们温暖的摇篮……摇篮总有一天会倾覆……</p>
-<p>“……不要沉睡在心灵的庇护所中……心灵的庇护迟早会成为无法打破的枷锁……</p>
-<p>“启程吧，在群星闪烁之前，启程吧，在长夜结束之前……</p>
-<p>“再不快些出发，白昼就降临了……”</p>
+					<description><![CDATA[壁纸网站]]></description>
+										<content:encoded><![CDATA[<p>壁纸网站</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>proxychains4配置使用</title>
-		<link>https://myiszero.github.io/mywebsite/1246.html</link>
+		<title>自由微信</title>
+		<link>https://myiszero.github.io/mywebsite/1524.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 15 Oct 2022 08:48:41 +0000</pubDate>
+		<pubDate>Sat, 18 Mar 2023 03:39:58 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1246</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1524</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -161,13 +157,13 @@
 		
 			</item>
 		<item>
-		<title>测试GPU性能的在线工具</title>
-		<link>https://myiszero.github.io/mywebsite/1236.html</link>
+		<title>国家企业信用信息公示系统</title>
+		<link>https://myiszero.github.io/mywebsite/1522.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 15 Oct 2022 07:21:32 +0000</pubDate>
+		<pubDate>Sat, 18 Mar 2023 03:38:45 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1236</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1522</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

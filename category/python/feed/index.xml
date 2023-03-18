@@ -12,14 +12,105 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/python/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Sat, 15 Oct 2022 09:11:35 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 18 Mar 2023 04:50:17 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
+		<title>QT 实现滚屏显示多张漂亮美眉图片（可放大缩小）</title>
+		<link>https://myiszero.github.io/mywebsite/1578.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 18 Mar 2023 04:50:17 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1578</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Python list列表添加元素的3种方法</title>
+		<link>https://myiszero.github.io/mywebsite/1570.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 18 Mar 2023 04:46:30 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1570</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>python将二维列表内容写入和读取.txt文件</title>
+		<link>https://myiszero.github.io/mywebsite/1568.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 18 Mar 2023 04:45:50 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1568</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Python3 集合</title>
+		<link>https://myiszero.github.io/mywebsite/1426.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 18 Mar 2023 02:42:24 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1426</guid>
+
+					<description><![CDATA[集合（set）是一个无序的不重复元素序列。]]></description>
+										<content:encoded><![CDATA[<p>集合（set）是一个无序的不重复元素序列。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>【PyQt5】显示多张图片并支持滚动</title>
+		<link>https://myiszero.github.io/mywebsite/1408.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 18 Mar 2023 02:33:22 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1408</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>PYQT5中设置图像自适应Qlabel</title>
+		<link>https://myiszero.github.io/mywebsite/1406.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 18 Mar 2023 02:32:54 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1406</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>python正则截取字符串_用python正则提取字符串的方法</title>
 		<link>https://myiszero.github.io/mywebsite/1268.html</link>
 		
@@ -73,96 +164,6 @@
 		<pubDate>Sat, 15 Oct 2022 03:19:17 +0000</pubDate>
 				<category><![CDATA[python]]></category>
 		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1178</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>python判断密码大小写数字特殊字符</title>
-		<link>https://myiszero.github.io/mywebsite/1121.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 01 Oct 2022 11:11:53 +0000</pubDate>
-				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1121</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>python字符串判断密码强弱</title>
-		<link>https://myiszero.github.io/mywebsite/1118.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 01 Oct 2022 11:11:10 +0000</pubDate>
-				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1118</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>python获取字符串的前几个字符（包含汉字）</title>
-		<link>https://myiszero.github.io/mywebsite/1116.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 01 Oct 2022 11:10:09 +0000</pubDate>
-				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1116</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>python文件读写</title>
-		<link>https://myiszero.github.io/mywebsite/1114.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 01 Oct 2022 11:08:43 +0000</pubDate>
-				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1114</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Python中字符串String去除出换行符(\n,\r)和空格的问题</title>
-		<link>https://myiszero.github.io/mywebsite/1100.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 11:15:33 +0000</pubDate>
-				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1100</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Python读取各种格式的txt文档（ANSI、Unicode、Unicode big endian、UTF-8等）</title>
-		<link>https://myiszero.github.io/mywebsite/1098.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 11:14:57 +0000</pubDate>
-				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1098</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
