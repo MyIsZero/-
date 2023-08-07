@@ -12,14 +12,63 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/linux/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Sat, 18 Mar 2023 04:53:17 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 07 Aug 2023 02:39:16 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
+		<title>mosdns</title>
+		<link>https://myiszero.github.io/mywebsite/1590.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 07 Aug 2023 02:05:53 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1590</guid>
+
+					<description><![CDATA[一个 DNS 转发器 分享个v5国内国外域名分流的配置 #605 如何配置 mo &#8230; <a href="https://myiszero.github.io/mywebsite/1590.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>一个 DNS 转发器</p>
+<p><a href="https://github.com/IrineSistiana/mosdns/discussions/605" target="_blank" rel="noopener">分享个v5国内国外域名分流的配置 #605</a></p>
+<p><a href="https://irine-sistiana.gitbook.io/mosdns-wiki/mosdns-v5/ru-he-pei-zhi-mosdns" target="_blank" rel="noopener">如何配置 mosdns</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>云服务器搭建 AdGuard Home</title>
+		<link>https://myiszero.github.io/mywebsite/1588.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 07 Aug 2023 02:03:42 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1588</guid>
+
+					<description><![CDATA[# 解压 tar -zxvf AdGuardHome_linux_amd64.t &#8230; <a href="https://myiszero.github.io/mywebsite/1588.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p># 解压<br />
+tar -zxvf AdGuardHome_linux_amd64.tar.gz</p>
+<p># 进入 AdGuardHome 目录<br />
+cd AdGuardHome</p>
+<p># 启动 AdGuard Home<br />
+./AdGuardHome -s install</p>
+<p># 启动 AdGuardHome 服务<br />
+./AdGuardHome -s start</p>
+<p># 停止 AdGuardHome 服务<br />
+./AdGuardHome -s stop</p>
+<p># 重启 AdGuardHome 服务<br />
+./AdGuardHome -s restart</p>
+<p># 查看 AdGuardHome 服务状态<br />
+./AdGuardHome -s status</p>
+<p># 卸载 AdGuardHome 服务<br />
+./AdGuardHome -s uninstall</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Realtek 802.11ac USB WLAN driver</title>
 		<link>https://myiszero.github.io/mywebsite/1580.html</link>
 		
@@ -88,24 +137,26 @@
 				<category><![CDATA[Linux]]></category>
 		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1430</guid>
 
-					<description><![CDATA[自选优选Cloudflare CDN IP]]></description>
+					<description><![CDATA[自选优选Cloudflare CDN IP 征集可用的 Cloudflare [ &#8230; <a href="https://myiszero.github.io/mywebsite/1430.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
 										<content:encoded><![CDATA[<p>自选优选Cloudflare CDN IP</p>
+<p><a href="https://github.com/XIU2/CloudflareSpeedTest/issues/6">征集可用的 Cloudflare [下载测速地址] ！ #6</a></p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>为 SmartDNS 配置广告过滤</title>
-		<link>https://myiszero.github.io/mywebsite/1420.html</link>
+		<title>SmartDNS</title>
+		<link>https://myiszero.github.io/mywebsite/1422.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Mar 2023 02:38:56 +0000</pubDate>
+		<pubDate>Sat, 18 Mar 2023 02:39:48 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1420</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1422</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[为 SmartDNS 配置广告过滤]]></description>
+										<content:encoded><![CDATA[<p><a href="https://blog.csdn.net/kk380446/article/details/125033806">为 SmartDNS 配置广告过滤</a></p>
+]]></content:encoded>
 					
 		
 		
@@ -137,36 +188,6 @@
 					<description><![CDATA[archlinux简体中文本地化#基本中文支持]]></description>
 										<content:encoded><![CDATA[<p>archlinux简体中文本地化#基本中文支持</p>
 ]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Linux （ubuntu14.04）计划任务 crontab 从 nano 转换为 vim</title>
-		<link>https://myiszero.github.io/mywebsite/1258.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 15 Oct 2022 08:58:14 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1258</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>linux ngrep命令、常见用法</title>
-		<link>https://myiszero.github.io/mywebsite/1254.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 15 Oct 2022 08:53:28 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1254</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
 					
 		
 		

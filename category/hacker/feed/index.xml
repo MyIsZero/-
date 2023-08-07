@@ -12,14 +12,63 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/hacker/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Sat, 18 Mar 2023 04:48:42 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 07 Aug 2023 02:44:38 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
+		<title>Reverse Shell Generator</title>
+		<link>https://myiszero.github.io/mywebsite/1641.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 07 Aug 2023 02:44:38 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1641</guid>
+
+					<description><![CDATA[反弹命令]]></description>
+										<content:encoded><![CDATA[<p>反弹命令</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>CC原神</title>
+		<link>https://myiszero.github.io/mywebsite/1629.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 07 Aug 2023 02:34:38 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1629</guid>
+
+					<description><![CDATA[原神作弊器]]></description>
+										<content:encoded><![CDATA[<p>原神作弊器</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>CSGO DMA Overlay</title>
+		<link>https://myiszero.github.io/mywebsite/1627.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 07 Aug 2023 02:33:42 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1627</guid>
+
+					<description><![CDATA[csgo作弊器 A basic CS:GO ESP utilising DMA  &#8230; <a href="https://myiszero.github.io/mywebsite/1627.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>csgo作弊器</p>
+<p>A basic CS:GO ESP utilising DMA and HDMI-Overlay</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Kali-linux破解操作系统用户密码</title>
 		<link>https://myiszero.github.io/mywebsite/1574.html</link>
 		
@@ -123,53 +172,6 @@
 					<description><![CDATA[获取windows的账号及密码]]></description>
 										<content:encoded><![CDATA[<p>获取windows的账号及密码</p>
 ]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>AtomPePacker</title>
-		<link>https://myiszero.github.io/mywebsite/1548.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Mar 2023 03:59:40 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1548</guid>
-
-					<description><![CDATA[一款功能强大的 Pe Packer]]></description>
-										<content:encoded><![CDATA[<p>一款功能强大的 Pe Packer</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>SharedMemUtils</title>
-		<link>https://myiszero.github.io/mywebsite/1546.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Mar 2023 03:57:02 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1546</guid>
-
-					<description><![CDATA[SharedMemUtils &#8211; 一个简单的工具，用于自动查找共享内 &#8230; <a href="https://myiszero.github.io/mywebsite/1546.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p>SharedMemUtils &#8211; 一个简单的工具，用于自动查找共享内存对象中的漏洞</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>手机号码编码规则</title>
-		<link>https://myiszero.github.io/mywebsite/1544.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Mar 2023 03:55:30 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1544</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
 					
 		
 		

@@ -12,97 +12,37 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Sat, 18 Mar 2023 04:53:17 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 07 Aug 2023 02:44:38 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
-		<title>Realtek 802.11ac USB WLAN driver</title>
-		<link>https://myiszero.github.io/mywebsite/1580.html</link>
+		<title>Reverse Shell Generator</title>
+		<link>https://myiszero.github.io/mywebsite/1641.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Mar 2023 04:53:17 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1580</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>QT 实现滚屏显示多张漂亮美眉图片（可放大缩小）</title>
-		<link>https://myiszero.github.io/mywebsite/1578.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Mar 2023 04:50:17 +0000</pubDate>
-				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1578</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>MySQL 8.0.20安装教程（Win10）免安装版</title>
-		<link>https://myiszero.github.io/mywebsite/1576.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Mar 2023 04:49:35 +0000</pubDate>
-				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1576</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Kali-linux破解操作系统用户密码</title>
-		<link>https://myiszero.github.io/mywebsite/1574.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Mar 2023 04:48:42 +0000</pubDate>
+		<pubDate>Mon, 07 Aug 2023 02:44:38 +0000</pubDate>
 				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1574</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1641</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>VirtualBox启动虚拟机报错</title>
-		<link>https://myiszero.github.io/mywebsite/1572.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Mar 2023 04:47:43 +0000</pubDate>
-				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1572</guid>
-
-					<description><![CDATA[the vm session was closed before any att &#8230; <a href="https://myiszero.github.io/mywebsite/1572.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p>the vm session was closed before any attempt to power it on</p>
+					<description><![CDATA[反弹命令]]></description>
+										<content:encoded><![CDATA[<p>反弹命令</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Python list列表添加元素的3种方法</title>
-		<link>https://myiszero.github.io/mywebsite/1570.html</link>
+		<title>epub电子书下载_epub下载_kindle电子书资源-莫若书单</title>
+		<link>https://myiszero.github.io/mywebsite/1639.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Mar 2023 04:46:30 +0000</pubDate>
-				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1570</guid>
+		<pubDate>Mon, 07 Aug 2023 02:42:06 +0000</pubDate>
+				<category><![CDATA[文章]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1639</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -111,28 +51,29 @@
 		
 			</item>
 		<item>
-		<title>python将二维列表内容写入和读取.txt文件</title>
-		<link>https://myiszero.github.io/mywebsite/1568.html</link>
+		<title>强化学习 (Reinforcement Learning) &#124; 莫烦Python</title>
+		<link>https://myiszero.github.io/mywebsite/1635.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Mar 2023 04:45:50 +0000</pubDate>
+		<pubDate>Mon, 07 Aug 2023 02:37:27 +0000</pubDate>
 				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1568</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1635</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[进化算法 (Evolutionary-Algorithm) &#124; 莫烦Python]]></description>
+										<content:encoded><![CDATA[<p><a href="https://mofanpy.com/tutorials/machine-learning/evolutionary-algorithm/" target="_blank" rel="noopener">进化算法 (Evolutionary-Algorithm) | 莫烦Python</a></p>
+]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>【罚厨入坑指南】针对新人全方位科普</title>
-		<link>https://myiszero.github.io/mywebsite/1566.html</link>
+		<title>天津罪 游戏攻略 </title>
+		<link>https://myiszero.github.io/mywebsite/1633.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Mar 2023 04:44:54 +0000</pubDate>
+		<pubDate>Mon, 07 Aug 2023 02:36:29 +0000</pubDate>
 				<category><![CDATA[GAL]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1566</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1633</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -141,13 +82,13 @@
 		
 			</item>
 		<item>
-		<title>有哪些靠谱的租房平台</title>
-		<link>https://myiszero.github.io/mywebsite/1564.html</link>
+		<title>正则表达式可视化-Visual Regexp：在线测试、学习、构建正则表达式</title>
+		<link>https://myiszero.github.io/mywebsite/1631.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Mar 2023 04:42:25 +0000</pubDate>
+		<pubDate>Mon, 07 Aug 2023 02:35:51 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1564</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1631</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -156,13 +97,76 @@
 		
 			</item>
 		<item>
-		<title>蘑菇租房</title>
-		<link>https://myiszero.github.io/mywebsite/1562.html</link>
+		<title>CC原神</title>
+		<link>https://myiszero.github.io/mywebsite/1629.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Mar 2023 04:41:45 +0000</pubDate>
+		<pubDate>Mon, 07 Aug 2023 02:34:38 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1629</guid>
+
+					<description><![CDATA[原神作弊器]]></description>
+										<content:encoded><![CDATA[<p>原神作弊器</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>CSGO DMA Overlay</title>
+		<link>https://myiszero.github.io/mywebsite/1627.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 07 Aug 2023 02:33:42 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1627</guid>
+
+					<description><![CDATA[csgo作弊器 A basic CS:GO ESP utilising DMA  &#8230; <a href="https://myiszero.github.io/mywebsite/1627.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>csgo作弊器</p>
+<p>A basic CS:GO ESP utilising DMA and HDMI-Overlay</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>欠钱不还，起诉全流程</title>
+		<link>https://myiszero.github.io/mywebsite/1625.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 07 Aug 2023 02:31:55 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1562</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1625</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>跳槽什么意思？跳槽是先签合同还是先辞职？ </title>
+		<link>https://myiszero.github.io/mywebsite/1623.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 07 Aug 2023 02:30:59 +0000</pubDate>
+				<category><![CDATA[文章]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1623</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>倪师之家 &#8211; 快速学习倪海厦学术思想</title>
+		<link>https://myiszero.github.io/mywebsite/1621.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 07 Aug 2023 02:30:28 +0000</pubDate>
+				<category><![CDATA[文章]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1621</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

@@ -12,14 +12,30 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/python/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Sat, 18 Mar 2023 04:50:17 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 07 Aug 2023 02:38:23 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
+		<title>强化学习 (Reinforcement Learning) &#124; 莫烦Python</title>
+		<link>https://myiszero.github.io/mywebsite/1635.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 07 Aug 2023 02:37:27 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1635</guid>
+
+					<description><![CDATA[进化算法 (Evolutionary-Algorithm) &#124; 莫烦Python]]></description>
+										<content:encoded><![CDATA[<p><a href="https://mofanpy.com/tutorials/machine-learning/evolutionary-algorithm/" target="_blank" rel="noopener">进化算法 (Evolutionary-Algorithm) | 莫烦Python</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>QT 实现滚屏显示多张漂亮美眉图片（可放大缩小）</title>
 		<link>https://myiszero.github.io/mywebsite/1578.html</link>
 		
@@ -149,21 +165,6 @@
 		<pubDate>Sat, 15 Oct 2022 05:27:52 +0000</pubDate>
 				<category><![CDATA[python]]></category>
 		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1227</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>python&#8211;获取参数输入(获取用户输入)</title>
-		<link>https://myiszero.github.io/mywebsite/1178.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 15 Oct 2022 03:19:17 +0000</pubDate>
-				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1178</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
