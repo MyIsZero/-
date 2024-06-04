@@ -12,70 +12,21 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/linux/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Mon, 07 Aug 2023 02:39:16 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 30 May 2024 00:50:42 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 	<item>
-		<title>mosdns</title>
-		<link>https://myiszero.github.io/mywebsite/1590.html</link>
+		<title>让 v2ray 透明代理的 DNS 更聪明一些</title>
+		<link>https://zeeko.dev/2022/09/smartdns-with-v2ray-tproxy/#new_tab</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 07 Aug 2023 02:05:53 +0000</pubDate>
+		<pubDate>Thu, 30 May 2024 00:50:42 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1590</guid>
-
-					<description><![CDATA[一个 DNS 转发器 分享个v5国内国外域名分流的配置 #605 如何配置 mo &#8230; <a href="https://myiszero.github.io/mywebsite/1590.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p>一个 DNS 转发器</p>
-<p><a href="https://github.com/IrineSistiana/mosdns/discussions/605" target="_blank" rel="noopener">分享个v5国内国外域名分流的配置 #605</a></p>
-<p><a href="https://irine-sistiana.gitbook.io/mosdns-wiki/mosdns-v5/ru-he-pei-zhi-mosdns" target="_blank" rel="noopener">如何配置 mosdns</a></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>云服务器搭建 AdGuard Home</title>
-		<link>https://myiszero.github.io/mywebsite/1588.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 07 Aug 2023 02:03:42 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1588</guid>
-
-					<description><![CDATA[# 解压 tar -zxvf AdGuardHome_linux_amd64.t &#8230; <a href="https://myiszero.github.io/mywebsite/1588.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p># 解压<br />
-tar -zxvf AdGuardHome_linux_amd64.tar.gz</p>
-<p># 进入 AdGuardHome 目录<br />
-cd AdGuardHome</p>
-<p># 启动 AdGuard Home<br />
-./AdGuardHome -s install</p>
-<p># 启动 AdGuardHome 服务<br />
-./AdGuardHome -s start</p>
-<p># 停止 AdGuardHome 服务<br />
-./AdGuardHome -s stop</p>
-<p># 重启 AdGuardHome 服务<br />
-./AdGuardHome -s restart</p>
-<p># 查看 AdGuardHome 服务状态<br />
-./AdGuardHome -s status</p>
-<p># 卸载 AdGuardHome 服务<br />
-./AdGuardHome -s uninstall</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Realtek 802.11ac USB WLAN driver</title>
-		<link>https://myiszero.github.io/mywebsite/1580.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Mar 2023 04:53:17 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1580</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1911</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -84,13 +35,13 @@ cd AdGuardHome</p>
 		
 			</item>
 		<item>
-		<title>解锁网易云音乐灰色无版权音乐</title>
-		<link>https://myiszero.github.io/mywebsite/1537.html</link>
+		<title>Xray透明代理</title>
+		<link>https://xtls.github.io/Xray-docs-next/document/level-2/transparent_proxy/transparent_proxy.html#new_tab</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Mar 2023 03:50:37 +0000</pubDate>
+		<pubDate>Thu, 30 May 2024 00:49:49 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1537</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1909</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -99,13 +50,13 @@ cd AdGuardHome</p>
 		
 			</item>
 		<item>
-		<title>鸟哥的Linux私房菜</title>
-		<link>https://myiszero.github.io/mywebsite/1492.html</link>
+		<title>V2Ray透明代理(TPROXY)</title>
+		<link>https://guide.v2fly.org/app/tproxy.html#new_tab</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Mar 2023 03:18:20 +0000</pubDate>
+		<pubDate>Thu, 30 May 2024 00:49:21 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1492</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1907</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -114,13 +65,13 @@ cd AdGuardHome</p>
 		
 			</item>
 		<item>
-		<title>Podman</title>
-		<link>https://myiszero.github.io/mywebsite/1460.html</link>
+		<title>在树莓派上，利用V2Ray构建透明网关，实现Wireguard接入后无感科学上网</title>
+		<link>https://pylab.me/blog/post/use_raspi_as_a_transport_router#new_tab</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Mar 2023 03:01:19 +0000</pubDate>
+		<pubDate>Thu, 30 May 2024 00:46:42 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1460</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1903</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -129,46 +80,29 @@ cd AdGuardHome</p>
 		
 			</item>
 		<item>
-		<title>CloudflareSpeedTest</title>
-		<link>https://myiszero.github.io/mywebsite/1430.html</link>
+		<title>配置 TPROXY</title>
+		<link>https://v2.hysteria.network/zh/docs/advanced/TPROXY/#new_tab</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Mar 2023 02:44:50 +0000</pubDate>
+		<pubDate>Thu, 30 May 2024 00:46:17 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1430</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1901</guid>
 
-					<description><![CDATA[自选优选Cloudflare CDN IP 征集可用的 Cloudflare [ &#8230; <a href="https://myiszero.github.io/mywebsite/1430.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p>自选优选Cloudflare CDN IP</p>
-<p><a href="https://github.com/XIU2/CloudflareSpeedTest/issues/6">征集可用的 Cloudflare [下载测速地址] ！ #6</a></p>
+					<description><![CDATA[TProxy 是仅在 Linux 上可用的一种透明代理， 它同时支持 TCP 和 &#8230; <a href="https://v2.hysteria.network/zh/docs/advanced/TPROXY/#new_tab" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>TProxy 是仅在 Linux 上可用的一种透明代理， 它同时支持 TCP 和 UDP。</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>SmartDNS</title>
-		<link>https://myiszero.github.io/mywebsite/1422.html</link>
+		<title>试用xray xtls，对比v2ray</title>
+		<link>https://acytoo.com/ladder/v2-x-ray/#new_tab</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Mar 2023 02:39:48 +0000</pubDate>
+		<pubDate>Thu, 30 May 2024 00:44:26 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1422</guid>
-
-					<description><![CDATA[为 SmartDNS 配置广告过滤]]></description>
-										<content:encoded><![CDATA[<p><a href="https://blog.csdn.net/kk380446/article/details/125033806">为 SmartDNS 配置广告过滤</a></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Ubuntu apt-get彻底卸载软件包</title>
-		<link>https://myiszero.github.io/mywebsite/1404.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Mar 2023 02:32:18 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1404</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1899</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -177,17 +111,61 @@ cd AdGuardHome</p>
 		
 			</item>
 		<item>
-		<title>简体中文本地化</title>
-		<link>https://myiszero.github.io/mywebsite/1382.html</link>
+		<title>xray 透明代理</title>
+		<link>https://acytoo.com/ladder/xray-transparent-proxy/#new_tab</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Mar 2023 02:19:09 +0000</pubDate>
+		<pubDate>Thu, 30 May 2024 00:44:07 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1382</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1897</guid>
 
-					<description><![CDATA[archlinux简体中文本地化#基本中文支持]]></description>
-										<content:encoded><![CDATA[<p>archlinux简体中文本地化#基本中文支持</p>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>arch linux配置IP(静态或动态)</title>
+		<link>https://cloud-atlas.readthedocs.io/zh-cn/latest/linux/arch_linux/archlinux_config_ip.html#new_tab</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 30 May 2024 00:43:08 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1895</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>编辑GeoIP，GeoSite 数据库*.dat文件</title>
+		<link>https://github.com/MetaCubeX/geo/tree/master#new_tab</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 30 May 2024 00:42:09 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1893</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Hyper-V下PaoPaoDns&#038;&#038;PaoPaoGateway配置教程</title>
+		<link>https://blog.ilxyz.cn/archives/Hyper-V%E4%B8%8BPaoPaoDns&#038;&#038;PaoPaoGateway%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/#new_tab</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 30 May 2024 00:39:45 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1889</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
 		
 		

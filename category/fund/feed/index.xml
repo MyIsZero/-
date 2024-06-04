@@ -12,14 +12,29 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/fund/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Sat, 15 Oct 2022 04:38:50 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 May 2024 02:06:46 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 	<item>
+		<title>股票入门知识讲解大全（长文，看完建议收藏！）</title>
+		<link>https://zhuanlan.zhihu.com/p/499957214#new_tab</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 29 May 2024 02:06:46 +0000</pubDate>
+				<category><![CDATA[基金]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1796</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Stock_Predict_with_LSTM</title>
 		<link>https://myiszero.github.io/mywebsite/1213.html</link>
 		

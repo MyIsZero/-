@@ -12,37 +12,21 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Mon, 07 Aug 2023 02:44:38 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 30 May 2024 00:53:22 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 	<item>
-		<title>Reverse Shell Generator</title>
-		<link>https://myiszero.github.io/mywebsite/1641.html</link>
+		<title>使用Hugo+LoveIt主题搭建博客</title>
+		<link>https://jellyzhang.github.io/%E4%BD%BF%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/#new_tab</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 07 Aug 2023 02:44:38 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1641</guid>
-
-					<description><![CDATA[反弹命令]]></description>
-										<content:encoded><![CDATA[<p>反弹命令</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>epub电子书下载_epub下载_kindle电子书资源-莫若书单</title>
-		<link>https://myiszero.github.io/mywebsite/1639.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 07 Aug 2023 02:42:06 +0000</pubDate>
+		<pubDate>Thu, 30 May 2024 00:53:22 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1639</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1921</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -51,29 +35,43 @@
 		
 			</item>
 		<item>
-		<title>强化学习 (Reinforcement Learning) &#124; 莫烦Python</title>
-		<link>https://myiszero.github.io/mywebsite/1635.html</link>
+		<title>hugo博客搭建 &#124; PaperMod主题</title>
+		<link>https://www.sulvblog.cn/posts/blog/build_hugo/#new_tab</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 07 Aug 2023 02:37:27 +0000</pubDate>
-				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1635</guid>
+		<pubDate>Thu, 30 May 2024 00:52:55 +0000</pubDate>
+				<category><![CDATA[文章]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1919</guid>
 
-					<description><![CDATA[进化算法 (Evolutionary-Algorithm) &#124; 莫烦Python]]></description>
-										<content:encoded><![CDATA[<p><a href="https://mofanpy.com/tutorials/machine-learning/evolutionary-algorithm/" target="_blank" rel="noopener">进化算法 (Evolutionary-Algorithm) | 莫烦Python</a></p>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>天津罪 游戏攻略 </title>
-		<link>https://myiszero.github.io/mywebsite/1633.html</link>
+		<title>往届文科生异地租房社招指南</title>
+		<link>https://www.douban.com/group/topic/288893295#new_tab</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 07 Aug 2023 02:36:29 +0000</pubDate>
+		<pubDate>Thu, 30 May 2024 00:52:27 +0000</pubDate>
+				<category><![CDATA[文章]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1917</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Fate stay night攻略</title>
+		<link>https://www.bilibili.com/read/cv12619775/#new_tab</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 30 May 2024 00:51:43 +0000</pubDate>
 				<category><![CDATA[GAL]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1633</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1915</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -82,13 +80,13 @@
 		
 			</item>
 		<item>
-		<title>正则表达式可视化-Visual Regexp：在线测试、学习、构建正则表达式</title>
-		<link>https://myiszero.github.io/mywebsite/1631.html</link>
+		<title>【GALGAME游戏推荐】波子汽水（ラムネ）省流版介绍</title>
+		<link>https://www.bilibili.com/read/cv25309848/#new_tab</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 07 Aug 2023 02:35:51 +0000</pubDate>
-				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1631</guid>
+		<pubDate>Thu, 30 May 2024 00:51:13 +0000</pubDate>
+				<category><![CDATA[GAL]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1913</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -97,46 +95,13 @@
 		
 			</item>
 		<item>
-		<title>CC原神</title>
-		<link>https://myiszero.github.io/mywebsite/1629.html</link>
+		<title>让 v2ray 透明代理的 DNS 更聪明一些</title>
+		<link>https://zeeko.dev/2022/09/smartdns-with-v2ray-tproxy/#new_tab</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 07 Aug 2023 02:34:38 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1629</guid>
-
-					<description><![CDATA[原神作弊器]]></description>
-										<content:encoded><![CDATA[<p>原神作弊器</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>CSGO DMA Overlay</title>
-		<link>https://myiszero.github.io/mywebsite/1627.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 07 Aug 2023 02:33:42 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1627</guid>
-
-					<description><![CDATA[csgo作弊器 A basic CS:GO ESP utilising DMA  &#8230; <a href="https://myiszero.github.io/mywebsite/1627.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p>csgo作弊器</p>
-<p>A basic CS:GO ESP utilising DMA and HDMI-Overlay</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>欠钱不还，起诉全流程</title>
-		<link>https://myiszero.github.io/mywebsite/1625.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 07 Aug 2023 02:31:55 +0000</pubDate>
-				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1625</guid>
+		<pubDate>Thu, 30 May 2024 00:50:42 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1911</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -145,13 +110,13 @@
 		
 			</item>
 		<item>
-		<title>跳槽什么意思？跳槽是先签合同还是先辞职？ </title>
-		<link>https://myiszero.github.io/mywebsite/1623.html</link>
+		<title>Xray透明代理</title>
+		<link>https://xtls.github.io/Xray-docs-next/document/level-2/transparent_proxy/transparent_proxy.html#new_tab</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 07 Aug 2023 02:30:59 +0000</pubDate>
-				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1623</guid>
+		<pubDate>Thu, 30 May 2024 00:49:49 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1909</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -160,13 +125,43 @@
 		
 			</item>
 		<item>
-		<title>倪师之家 &#8211; 快速学习倪海厦学术思想</title>
-		<link>https://myiszero.github.io/mywebsite/1621.html</link>
+		<title>V2Ray透明代理(TPROXY)</title>
+		<link>https://guide.v2fly.org/app/tproxy.html#new_tab</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 07 Aug 2023 02:30:28 +0000</pubDate>
+		<pubDate>Thu, 30 May 2024 00:49:21 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1907</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>进阶必读：代理协议 UDP 全方位透彻解析</title>
+		<link>https://zhuanlan.zhihu.com/p/518088166#new_tab</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 30 May 2024 00:47:08 +0000</pubDate>
 				<category><![CDATA[文章]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1621</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1905</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>在树莓派上，利用V2Ray构建透明网关，实现Wireguard接入后无感科学上网</title>
+		<link>https://pylab.me/blog/post/use_raspi_as_a_transport_router#new_tab</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 30 May 2024 00:46:42 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1903</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
