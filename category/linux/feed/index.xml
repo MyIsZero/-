@@ -12,21 +12,21 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/linux/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Thu, 30 May 2024 00:50:42 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Jun 2024 11:43:04 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 	<item>
-		<title>让 v2ray 透明代理的 DNS 更聪明一些</title>
-		<link>https://zeeko.dev/2022/09/smartdns-with-v2ray-tproxy/#new_tab</link>
+		<title>Arch Linux+btrfs配置简明指南</title>
+		<link>https://blog.azurezeng.com/archlinux-with-btrfs-simple-guide/#new_tab</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 30 May 2024 00:50:42 +0000</pubDate>
+		<pubDate>Tue, 11 Jun 2024 11:43:04 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1911</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1989</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -35,13 +35,13 @@
 		
 			</item>
 		<item>
-		<title>Xray透明代理</title>
-		<link>https://xtls.github.io/Xray-docs-next/document/level-2/transparent_proxy/transparent_proxy.html#new_tab</link>
+		<title>现代化的 Archlinux 安装，Btrfs、快照、休眠</title>
+		<link>https://sspai.com/post/78916#new_tab</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 30 May 2024 00:49:49 +0000</pubDate>
+		<pubDate>Tue, 11 Jun 2024 11:42:33 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1909</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1987</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -50,13 +50,13 @@
 		
 			</item>
 		<item>
-		<title>V2Ray透明代理(TPROXY)</title>
-		<link>https://guide.v2fly.org/app/tproxy.html#new_tab</link>
+		<title>archinstall安装ArchLinux“向导”程序-中文对照表</title>
+		<link>https://bbs.archlinuxcn.org/viewtopic.php?id=13059#new_tab</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 30 May 2024 00:49:21 +0000</pubDate>
+		<pubDate>Tue, 11 Jun 2024 11:41:47 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1907</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1985</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -65,13 +65,13 @@
 		
 			</item>
 		<item>
-		<title>在树莓派上，利用V2Ray构建透明网关，实现Wireguard接入后无感科学上网</title>
-		<link>https://pylab.me/blog/post/use_raspi_as_a_transport_router#new_tab</link>
+		<title>archlinux 基础安装</title>
+		<link>https://arch.icekylin.online/guide/rookie/basic-install#new_tab</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 30 May 2024 00:46:42 +0000</pubDate>
+		<pubDate>Tue, 11 Jun 2024 11:40:56 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1903</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1983</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -80,29 +80,13 @@
 		
 			</item>
 		<item>
-		<title>配置 TPROXY</title>
-		<link>https://v2.hysteria.network/zh/docs/advanced/TPROXY/#new_tab</link>
+		<title>Tiny Core Linux 的安装和使用</title>
+		<link>https://blog.csdn.net/woay2008/article/details/120319651#new_tab</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 30 May 2024 00:46:17 +0000</pubDate>
+		<pubDate>Tue, 11 Jun 2024 06:50:12 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1901</guid>
-
-					<description><![CDATA[TProxy 是仅在 Linux 上可用的一种透明代理， 它同时支持 TCP 和 &#8230; <a href="https://v2.hysteria.network/zh/docs/advanced/TPROXY/#new_tab" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p>TProxy 是仅在 Linux 上可用的一种透明代理， 它同时支持 TCP 和 UDP。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>试用xray xtls，对比v2ray</title>
-		<link>https://acytoo.com/ladder/v2-x-ray/#new_tab</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 30 May 2024 00:44:26 +0000</pubDate>
-				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1899</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1963</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -111,13 +95,13 @@
 		
 			</item>
 		<item>
-		<title>xray 透明代理</title>
-		<link>https://acytoo.com/ladder/xray-transparent-proxy/#new_tab</link>
+		<title>开启Linux 路由转发功能</title>
+		<link>https://blog.csdn.net/weixin_43101391/article/details/82953051#new_tab</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 30 May 2024 00:44:07 +0000</pubDate>
+		<pubDate>Tue, 11 Jun 2024 06:49:51 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1897</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1961</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -126,13 +110,13 @@
 		
 			</item>
 		<item>
-		<title>arch linux配置IP(静态或动态)</title>
-		<link>https://cloud-atlas.readthedocs.io/zh-cn/latest/linux/arch_linux/archlinux_config_ip.html#new_tab</link>
+		<title>sysctl -p详解</title>
+		<link>https://www.cnblogs.com/davidshen/p/10442219.html#new_tab</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 30 May 2024 00:43:08 +0000</pubDate>
+		<pubDate>Tue, 11 Jun 2024 06:49:15 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1895</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1959</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -141,13 +125,13 @@
 		
 			</item>
 		<item>
-		<title>编辑GeoIP，GeoSite 数据库*.dat文件</title>
-		<link>https://github.com/MetaCubeX/geo/tree/master#new_tab</link>
+		<title>轻量化Tiny Core Linux硬盘安装nginx+php+mysql</title>
+		<link>https://www.ssdlsoft.com/other/144#new_tab</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 30 May 2024 00:42:09 +0000</pubDate>
+		<pubDate>Tue, 11 Jun 2024 06:48:16 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1893</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1957</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -156,13 +140,28 @@
 		
 			</item>
 		<item>
-		<title>Hyper-V下PaoPaoDns&#038;&#038;PaoPaoGateway配置教程</title>
-		<link>https://blog.ilxyz.cn/archives/Hyper-V%E4%B8%8BPaoPaoDns&#038;&#038;PaoPaoGateway%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/#new_tab</link>
+		<title>Tiny Core 網路設定 &#8211; DHCP, 固定 IP 及 NAT</title>
+		<link>http://linuxkvm.blogspot.com/2011/07/tiny-core_24.html#new_tab</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 30 May 2024 00:39:45 +0000</pubDate>
+		<pubDate>Tue, 11 Jun 2024 06:41:11 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1889</guid>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1955</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ifconfig增加删除临时ip方法</title>
+		<link>https://blog.51cto.com/liuzhengwei521/1963365#new_tab</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 06:24:34 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1953</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

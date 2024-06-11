@@ -12,14 +12,108 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/hacker/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Wed, 29 May 2024 14:29:53 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Jun 2024 13:39:39 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 	<item>
+		<title>虚假信息生成器</title>
+		<link>https://fakeinfo.net/#new_tab</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 13:39:39 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=2012</guid>
+
+					<description><![CDATA[在数字时代，您的个人信息是您最宝贵的资产。 虚假信息使您能够将您的私人生活与您的 &#8230; <a href="https://fakeinfo.net/#new_tab">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>在数字时代，您的个人信息是您最宝贵的资产。 虚假信息使您能够将您的私人生活与您的生活无缝分离。 网上人物。 我们的工具套件确保您可以参与数字化 安全地保护世界，而不会给您的个人数据带来风险。<br />
+准备好保护您的数字自我了吗？ 探索我们的工具或了解更多信息 我们如何保护您的信息。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Genshin-Impact-Model-Importer (GIMI)</title>
+		<link>https://github.com/SilentNightSound/GI-Model-Importer/blob/main/CN_README.md#new_tab</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 05:57:20 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1941</guid>
+
+					<description><![CDATA[原神导入自定义模型]]></description>
+										<content:encoded><![CDATA[<p>原神导入自定义模型</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>如何开始制作原神作弊器？</title>
+		<link>https://www.unknowncheats.me/forum/genshin-impact/577878-started-genshin-cheats.html#new_tab</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 05:51:04 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1937</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>逆向工程冒险：强力函数搜索，或如何使用 PowerShell 破解 Genshin Impact</title>
+		<link>https://katyscode.wordpress.com/2021/01/24/reverse-engineering-adventures-brute-force-function-search-or-how-to-crack-genshin-impact-with-powershell/#new_tab</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 05:50:17 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1935</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Akebi-GC-Backup</title>
+		<link>https://github.com/wedfrgt/Akebi-GC-Backup/blob/master/README_zh-Hans.md#new_tab</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 05:48:09 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1933</guid>
+
+					<description><![CDATA[原神作弊器]]></description>
+										<content:encoded><![CDATA[<p>原神作弊器</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>IP反查域名</title>
+		<link>https://www.qvdv.net/tools/qvdv-gethost.html#new_tab</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 05:40:52 +0000</pubDate>
+				<category><![CDATA[Hacker]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1929</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>SecLists</title>
 		<link>https://github.com/danielmiessler/SecLists#new_tab</link>
 		
@@ -28,7 +122,7 @@
 				<category><![CDATA[Hacker]]></category>
 		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1832</guid>
 
-					<description><![CDATA[SecLists 是安全测试人员的伴侣。 它是安全评估期间使用的多种类型列表的集 &#8230; <a href="https://github.com/danielmiessler/SecLists#new_tab" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
+					<description><![CDATA[SecLists 是安全测试人员的伴侣。 它是安全评估期间使用的多种类型列表的集 &#8230; <a href="https://github.com/danielmiessler/SecLists#new_tab">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
 										<content:encoded><![CDATA[<p>SecLists 是安全测试人员的伴侣。 它是安全评估期间使用的多种类型列表的集合，并收集在一个位置。 列表类型包括用户名、密码、URL、敏感数据模式、模糊测试负载、Web shell 等等。</p>
 ]]></content:encoded>
 					
@@ -60,7 +154,7 @@
 				<category><![CDATA[Hacker]]></category>
 		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1826</guid>
 
-					<description><![CDATA[适用于 Windows 的开源用户模式调试器。 针对逆向工程和恶意软件分析进行了 &#8230; <a href="https://github.com/x64dbg/x64dbg#new_tab" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
+					<description><![CDATA[适用于 Windows 的开源用户模式调试器。 针对逆向工程和恶意软件分析进行了 &#8230; <a href="https://github.com/x64dbg/x64dbg#new_tab">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
 										<content:encoded><![CDATA[<p>适用于 Windows 的开源用户模式调试器。 针对逆向工程和恶意软件分析进行了优化。</p>
 ]]></content:encoded>
 					
@@ -78,103 +172,6 @@
 
 					<description><![CDATA[从事的 Hack365 项目。有时可能会发布其他内容]]></description>
 										<content:encoded><![CDATA[<p>从事的 Hack365 项目。有时可能会发布其他内容</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Overview的博客</title>
-		<link>https://payloads.online/#new_tab</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 29 May 2024 02:38:30 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1816</guid>
-
-					<description><![CDATA[现阶段在进行有效性验证/攻击模拟相关的安全研究工作，博客会记录一些学习过程和部分 &#8230; <a href="https://payloads.online/#new_tab" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p>现阶段在进行有效性验证/攻击模拟相关的安全研究工作，博客会记录一些学习过程和部分安全技术研究成果。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>细谈Gobuster的目录/文件/Vhost/DNS子域名暴力破解艺术</title>
-		<link>https://myiszero.github.io/mywebsite/1692.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 16 Apr 2024 10:50:33 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1692</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Wordlists</title>
-		<link>https://myiszero.github.io/mywebsite/1648.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 15 Apr 2024 12:55:13 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1648</guid>
-
-					<description><![CDATA[Real-world infosec wordlists, updated re &#8230; <a href="https://myiszero.github.io/mywebsite/1648.html" data-wpel-link="internal">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p>Real-world infosec wordlists, updated regularly</p>
-<p>子域与网站路径字典</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Reverse Shell Generator</title>
-		<link>https://myiszero.github.io/mywebsite/1641.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 07 Aug 2023 02:44:38 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1641</guid>
-
-					<description><![CDATA[反弹命令]]></description>
-										<content:encoded><![CDATA[<p>反弹命令</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>CC原神</title>
-		<link>https://myiszero.github.io/mywebsite/1629.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 07 Aug 2023 02:34:38 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1629</guid>
-
-					<description><![CDATA[原神作弊器]]></description>
-										<content:encoded><![CDATA[<p>原神作弊器</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>CSGO DMA Overlay</title>
-		<link>https://myiszero.github.io/mywebsite/1627.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 07 Aug 2023 02:33:42 +0000</pubDate>
-				<category><![CDATA[Hacker]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1627</guid>
-
-					<description><![CDATA[csgo作弊器 A basic CS:GO ESP utilising DMA  &#8230; <a href="https://myiszero.github.io/mywebsite/1627.html" data-wpel-link="internal">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p>csgo作弊器</p>
-<p>A basic CS:GO ESP utilising DMA and HDMI-Overlay</p>
 ]]></content:encoded>
 					
 		

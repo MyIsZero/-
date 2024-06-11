@@ -12,14 +12,120 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/gal/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Thu, 30 May 2024 00:51:43 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Jun 2024 13:13:29 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 	<item>
+		<title>壳之少女详尽攻略V2.2</title>
+		<link>https://www.bilibili.com/read/cv14718693/#new_tab</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 13:13:29 +0000</pubDate>
+				<category><![CDATA[GAL]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=2003</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>奇异恩典·圣夜的小镇 中文攻略</title>
+		<link>https://2dfan.com/topics/13386#new_tab</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 11:39:40 +0000</pubDate>
+				<category><![CDATA[GAL]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1981</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>《素晴らしき日々～不連続存在～》书单</title>
+		<link>https://www.douban.com/doulist/44061354/?start=0&#038;sort=seq&#038;playable=0&#038;sub_type=#new_tab</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 11:12:33 +0000</pubDate>
+				<category><![CDATA[GAL]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1977</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>大图书馆的牧羊人正篇攻略</title>
+		<link>https://www.bilibili.com/read/cv11462772/#new_tab</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 11:11:36 +0000</pubDate>
+				<category><![CDATA[GAL]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1975</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>GalTransl</title>
+		<link>https://github.com/XD2333/GalTransl#new_tab</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 06:51:59 +0000</pubDate>
+				<category><![CDATA[GAL]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1967</guid>
+
+					<description><![CDATA[GalTransl是一套将数个基础功能上的微小创新与对GPT提示工程（Promp &#8230; <a href="https://github.com/XD2333/GalTransl#new_tab">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>GalTransl是一套将数个基础功能上的微小创新与对GPT提示工程（Prompt Engineering）的深度利用相结合的Galgame自动化翻译工具，用于制作内嵌式翻译补丁。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>GALGAME-引擎识别及剧本提取</title>
+		<link>https://tieba.baidu.com/p/3342884480?red_tag=2890538203#new_tab</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 06:50:48 +0000</pubDate>
+				<category><![CDATA[GAL]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1965</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>【攻略】春天的足音</title>
+		<link>https://www.bilibili.com/read/cv27712238/#new_tab</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 05:37:58 +0000</pubDate>
+				<category><![CDATA[GAL]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1923</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Fate stay night攻略</title>
 		<link>https://www.bilibili.com/read/cv12619775/#new_tab</link>
 		
@@ -57,111 +163,6 @@
 		<pubDate>Mon, 15 Apr 2024 13:19:26 +0000</pubDate>
 				<category><![CDATA[GAL]]></category>
 		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1657</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>GALGAME汉化一般程序介绍</title>
-		<link>https://myiszero.github.io/mywebsite/1655.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 15 Apr 2024 13:18:27 +0000</pubDate>
-				<category><![CDATA[GAL]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1655</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>天津罪 游戏攻略 </title>
-		<link>https://myiszero.github.io/mywebsite/1633.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 07 Aug 2023 02:36:29 +0000</pubDate>
-				<category><![CDATA[GAL]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1633</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>《天使纷扰 RE-BOOT!》全线攻略 </title>
-		<link>https://myiszero.github.io/mywebsite/1609.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 07 Aug 2023 02:18:29 +0000</pubDate>
-				<category><![CDATA[GAL]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1609</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>想要传达给你的爱恋 攻略 </title>
-		<link>https://myiszero.github.io/mywebsite/1605.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 07 Aug 2023 02:14:33 +0000</pubDate>
-				<category><![CDATA[GAL]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1605</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>抬头看看吧，看那天上的繁星 中文攻略</title>
-		<link>https://myiszero.github.io/mywebsite/1603.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 07 Aug 2023 02:14:11 +0000</pubDate>
-				<category><![CDATA[GAL]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1603</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>(Android)戀愛主義~空色的季節~攻略</title>
-		<link>https://myiszero.github.io/mywebsite/1596.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 07 Aug 2023 02:10:39 +0000</pubDate>
-				<category><![CDATA[GAL]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1596</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>你所期望的永远中文攻略</title>
-		<link>https://myiszero.github.io/mywebsite/1592.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 07 Aug 2023 02:06:58 +0000</pubDate>
-				<category><![CDATA[GAL]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1592</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

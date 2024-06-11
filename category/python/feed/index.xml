@@ -12,14 +12,29 @@
 	<atom:link href="https://myiszero.github.io/mywebsite/category/python/feed" rel="self" type="application/rss+xml" />
 	<link>https://myiszero.github.io/mywebsite</link>
 	<description>我的收藏夹</description>
-	<lastBuildDate>Tue, 16 Apr 2024 11:46:26 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Jun 2024 05:51:48 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 	<item>
+		<title>python借助性能优化工具</title>
+		<link>https://www.osgeo.cn/python-tutorial/performance-optimization-tools.html#new_tab</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 05:51:48 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1939</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Python Windows下用无头浏览器爬取网页内容(火狐+谷歌)</title>
 		<link>https://myiszero.github.io/mywebsite/1698.html</link>
 		
@@ -43,7 +58,7 @@
 				<category><![CDATA[python]]></category>
 		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1683</guid>
 
-					<description><![CDATA[Python 的第三方库。用于将 C++ 代码编译成 Python 模块，或者在 &#8230; <a href="https://myiszero.github.io/mywebsite/1683.html" data-wpel-link="internal">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
+					<description><![CDATA[Python 的第三方库。用于将 C++ 代码编译成 Python 模块，或者在 &#8230; <a href="https://myiszero.github.io/mywebsite/1683.html">继续阅读 <span class="meta-nav">&#8594;</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Python 的第三方库。用于将 C++ 代码编译成 Python 模块，或者在 C++ 中导入 Python 模块。</p>
 ]]></content:encoded>
 					
@@ -105,7 +120,7 @@
 		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1635</guid>
 
 					<description><![CDATA[进化算法 (Evolutionary-Algorithm) &#124; 莫烦Python]]></description>
-										<content:encoded><![CDATA[<p><a href="https://mofanpy.com/tutorials/machine-learning/evolutionary-algorithm/" target="_blank" rel="noopener external noreferrer" data-wpel-link="external">进化算法 (Evolutionary-Algorithm) | 莫烦Python</a></p>
+										<content:encoded><![CDATA[<p><a href="https://mofanpy.com/tutorials/machine-learning/evolutionary-algorithm/" target="_blank" rel="noopener">进化算法 (Evolutionary-Algorithm) | 莫烦Python</a></p>
 ]]></content:encoded>
 					
 		
@@ -152,22 +167,6 @@
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Python3 集合</title>
-		<link>https://myiszero.github.io/mywebsite/1426.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Mar 2023 02:42:24 +0000</pubDate>
-				<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">https://myiszero.github.io/mywebsite/?p=1426</guid>
-
-					<description><![CDATA[集合（set）是一个无序的不重复元素序列。]]></description>
-										<content:encoded><![CDATA[<p>集合（set）是一个无序的不重复元素序列。</p>
-]]></content:encoded>
 					
 		
 		
